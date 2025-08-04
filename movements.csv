@@ -1,0 +1,1001 @@
+transaction_id,timestamp,type,amount,description,category
+01374b6d-a724-41ae-a1eb-a676be03dbc7,2024-10-31 21:29:42.336545+00:00,debit,2495.53,Payment to Bahena-Sosa,Other
+36acd09d-e505-42e6-9e24-ecf7f0d039b9,2024-09-02 03:23:40.465989+00:00,credit,64.92,"Payment to Escobedo, Saldivar y Fajardo",Entertainment
+16af9f47-4f05-47e0-8e96-baf7175138ed,2024-11-26 10:41:02.418711+00:00,credit,1278.02,"Payment to Gallegos, Carrera y Almanza",Other
+bebb386d-aa14-4416-abf5-02206902b179,2025-03-23 00:08:49.763249+00:00,credit,520.24,Payment to Tovar-Gamez,Subscriptions
+d2e8e208-cc51-4e1b-b4b3-b7d4ed11e010,2024-09-27 00:48:20.914623+00:00,debit,487.4,Payment to Corporacin Miranda-Carranza,Housing
+666db698-9d2d-4479-98a8-d8d0afa89fa4,2025-03-04 09:11:01.653617+00:00,debit,772.32,Payment to Despacho Tamayo-Echeverría,Education
+1c17ac40-9f70-4b32-a763-0ea5c8e1ada6,2025-01-29 06:05:38.722296+00:00,credit,1973.45,Payment to Grupo Cavazos y Ozuna,Healthcare
+6dc3689c-3b5b-4391-845d-e9d4683d359f,2024-09-18 17:26:30.018081+00:00,credit,381.88,Payment to Duarte S.C.,Other
+ba4169ac-61e2-43be-bd30-46c5222c632c,2024-09-17 05:54:04.203890+00:00,debit,112.39,Payment to Laboratorios Cardenas-Arteaga,Housing
+d9478b64-f30b-4732-ac70-0add6666f075,2025-02-19 00:40:59.719884+00:00,credit,582.62,Payment to Segovia S.A.,Travel
+9cdb6b15-85a4-433f-a1e0-e6678b760de5,2025-05-02 15:16:26.075037+00:00,credit,1761.11,Payment to Industrias Enríquez y Espino,Healthcare
+579bd576-82e5-48da-bb72-a523d074ce44,2025-04-01 11:09:29.645947+00:00,debit,8229.14,Payment to Club Covarrubias-Hernádez,Other
+152122aa-e679-4d1d-8583-17ac04940896,2025-03-17 19:10:10.479637+00:00,debit,3094.92,Payment to Otero y Ponce S.A.,Housing
+f9f5b4c8-1378-47d5-814f-b1f4221aac7e,2024-10-03 09:02:25.539031+00:00,debit,692.6,Payment to Industrias Gil-Llamas,Dining Out
+0afdd2f8-69f6-4356-9a99-725fa38bd955,2024-09-29 14:52:54.678762+00:00,debit,857.28,Payment to Club Echeverría y Marroquín,Other
+f90a2167-d9d1-4132-941b-c6975be5738a,2025-01-07 17:57:47.718608+00:00,debit,4182.77,Payment to Club Noriega y Rosales,Housing
+f0e8508c-ba42-47d1-a12e-d74d702d6b12,2025-06-19 19:36:30.948407+00:00,debit,926.68,Payment to Laboratorios Lugo y Rico,Education
+e7f2add0-a6d2-49fe-afc7-e5a99c46ee03,2025-07-31 16:18:28.411278+00:00,debit,2426.39,"Payment to Cavazos, Montez y Nazario",Housing
+8cf7c032-9480-4a44-9de8-d45f492f2342,2025-02-25 18:26:35.474418+00:00,credit,1238.33,Payment to Velázquez y Delgadillo A.C.,Healthcare
+8eafe4e4-407a-44ca-bcdf-25899fd45446,2025-05-25 13:08:11.571294+00:00,debit,3163.76,"Payment to Industrias Segura, Alejandro y Sisneros",Groceries
+b4ef7ef6-9a7a-4135-966d-51122ec96799,2024-09-07 15:16:25.308523+00:00,debit,8182.95,Payment to Nieves y Cantú S.A. de C.V.,Subscriptions
+ae4f080e-286c-40fa-a769-0965544a7b3a,2024-10-08 16:05:03.608237+00:00,debit,1995.26,Payment to Cardona y Asociados,Education
+68fb37fd-cf1d-4dae-a042-797d2a436bed,2024-08-17 22:25:23.849208+00:00,debit,690.91,Payment to Aguilera y Zaragoza S.A.,Travel
+218fa8ad-321d-4ebf-9bf0-77a27b0fe548,2024-12-02 08:05:04.910688+00:00,debit,4942.42,"Payment to Club Irizarry, Gallegos y Laboy",Utilities
+67d47e69-ce85-4e73-a63c-a01df3588192,2025-03-17 13:20:43.701689+00:00,debit,1987.65,Payment to Montez y Asociados,Entertainment
+2ebab01a-2126-4504-9729-427ac33a2707,2025-05-09 19:17:57.314774+00:00,credit,1710.38,Payment to Sauceda-Baeza,Travel
+0b2a7288-0498-4fc7-8c08-656e8f4dd227,2024-10-01 07:06:29.820530+00:00,credit,2210.94,Payment to Pineda-Haro S.A.,Dining Out
+73624dd7-901c-4db5-b029-b0a0ed9a420e,2025-06-27 03:01:28.511158+00:00,credit,733.27,Payment to Pérez y Muro e Hijos,Utilities
+0351e124-09f0-4dcf-bec8-5f73308a6c65,2025-03-18 11:24:53.304363+00:00,credit,2597.83,Payment to Rincón-Longoria,Entertainment
+139e6940-04ec-4816-9140-310f4a7c8318,2025-02-11 15:56:50.858529+00:00,debit,3927.4,Payment to Aparicio-Mercado,Gasoline
+b189de64-e49d-4f36-897d-e4dfcd1af460,2024-10-13 17:46:49.738325+00:00,debit,667.45,Payment to Saucedo-Delgado,Utilities
+27f56d43-51ea-45d5-a8d5-49d234dd3fe4,2025-01-30 14:22:47.172604+00:00,credit,4535.67,Payment to Nájera y Medrano A.C.,Entertainment
+5e6f8e81-266d-461f-a780-22d05dc3bf98,2025-04-24 03:27:07.571285+00:00,credit,1825.99,Payment to Morales y Aranda S.A.,Gasoline
+0e071f19-8c9e-4ebe-b02a-77653ca62262,2025-01-16 23:20:17.536842+00:00,debit,7515.1,Payment to Aranda-Orozco y Asociados,Other
+17d33aaa-6518-4018-be25-74a1d5aa4d35,2025-04-16 22:23:42.373420+00:00,credit,550.41,Payment to Despacho Rosario y Chávez,Utilities
+caec642d-982d-46ac-81b6-498e2eba0c06,2025-06-24 17:35:01.757266+00:00,debit,965.51,"Payment to Industrias Montez, Guzmán y Ordóñez",Gasoline
+caac550b-8f80-429e-bddc-6d96aab45baf,2025-06-26 01:21:38.088983+00:00,debit,96.99,Payment to Tamayo-Guillen,Entertainment
+68b64762-2aa7-4e50-8497-66fbf75e3d54,2025-02-12 18:56:08.475151+00:00,credit,4455.19,"Payment to Grupo Rosas, Salcido y Quiñónez",Other
+0aba738b-41cd-4778-b891-4a18a093fb5b,2025-01-12 03:33:56.136816+00:00,debit,879.12,"Payment to Laboratorios Espinoza, Zavala y Bernal",Groceries
+da9b6055-4cb2-4e67-86dc-3263b4417f70,2025-05-21 05:31:27.722475+00:00,debit,497.36,"Payment to Corporacin Morales, Ballesteros y Samaniego",Entertainment
+5efbbc4c-b33e-40f4-af87-adfd97c49aa1,2025-05-23 14:40:17.571464+00:00,debit,6764.93,Payment to Verduzco y Aguayo S.A.,Education
+cd97b6a0-2c5a-4aae-bfc1-d1824de9155a,2025-05-28 09:54:30.017348+00:00,credit,715.53,"Payment to Proyectos Sandoval, Tejada y Montoya",Utilities
+7c945b69-1a13-4a51-aa2c-1ff2e0824d9b,2024-09-25 08:31:33.634727+00:00,debit,253.86,Payment to Corporacin Valencia y Navarrete,Travel
+847150fa-b82f-40fa-8567-f0ecc4f91519,2024-11-26 07:21:29.012296+00:00,debit,422.55,Payment to Salas-Girón,Housing
+274b168a-bfa1-4161-abce-694d8ad8ec9e,2025-03-07 08:17:41.755030+00:00,debit,2368.72,Payment to Avilés-Cepeda S. R.L. de C.V.,Dining Out
+69af0416-85ed-4160-814d-f5866645c996,2025-04-23 19:25:38.017271+00:00,credit,180.72,Payment to Colunga e Hijos,Subscriptions
+75f113aa-63a0-4153-af4d-a0e9a91b9450,2024-11-06 00:22:58.473534+00:00,credit,1636.79,"Payment to Escamilla, Soliz y Moya",Dining Out
+9e96428d-03e4-4d95-b4ec-a26575d4a5cb,2025-04-20 16:08:46.062084+00:00,credit,202.89,Payment to Delgadillo-Melgar,Travel
+f41bccfe-3183-4f36-b344-a9f6041df73b,2025-02-13 14:50:06.581678+00:00,credit,83.03,Payment to Velasco-Lovato,Dining Out
+7d9ea79a-244e-4d8b-80e2-e489cc181071,2024-12-14 19:04:03.298320+00:00,debit,1358.48,Payment to de la Torre y Godoy e Hijos,Utilities
+2e5cebe0-cdad-4079-acf3-89d62fb7647a,2025-04-13 04:36:22.613382+00:00,credit,4650.58,Payment to Industrias Anguiano y Valladares,Entertainment
+e5230af1-572f-4522-82b4-fb711bdb5227,2024-09-20 21:43:56.073322+00:00,debit,2566.46,"Payment to Proyectos Padrón, Alemán y Coronado",Groceries
+9eb82727-998f-48a3-bcba-9a4ed7f0b68a,2025-02-18 01:28:24.190180+00:00,credit,152.76,Payment to Valencia-Regalado,Dining Out
+5c25e91a-604d-4089-8c98-41bebff3b2ac,2024-11-16 19:06:52.227678+00:00,credit,609.22,Payment to Solorio-Bahena,Entertainment
+88b549f4-07b0-4a9d-ac54-f49701adfde9,2025-04-28 23:56:19.214996+00:00,credit,519.57,Payment to Despacho Gil-Quiñónez,Dining Out
+4b3ebb5f-de9a-4e86-9db9-f6381ca0f2ea,2024-10-01 07:06:13.779725+00:00,debit,864.3,"Payment to Laboratorios Cardona, Preciado y Cano",Subscriptions
+2d4c22de-0037-4082-b3c4-934170ab4d3c,2024-11-18 12:49:59.305648+00:00,debit,1980.47,Payment to Despacho Canales y Patiño,Subscriptions
+8306b5de-47db-4b59-bd54-a7b02df21fba,2025-02-09 14:58:14.836440+00:00,debit,592.23,Payment to Despacho Raya y Haro,Subscriptions
+7e2466a6-4d03-4384-b794-25b1b886ca07,2025-01-11 06:33:22.359225+00:00,debit,3894.88,Payment to Barela S.C.,Travel
+cf38e557-59b8-40f1-830e-ffe373f18df4,2024-10-03 23:26:20.586927+00:00,credit,3735.74,Payment to Delgadillo-Salas S.A. de C.V.,Utilities
+739dd697-7524-4407-8d9c-f2d5e6b9d42b,2025-02-15 01:49:21.118478+00:00,debit,3220.67,Payment to Laboratorios Alarcón y Barela,Dining Out
+1ec9f3f8-1311-4960-b83f-a4cc4203389c,2025-03-03 10:43:59.811356+00:00,debit,3953.17,Payment to Jasso-Almanza e Hijos,Entertainment
+8e9adedf-f182-4dd3-b44a-07e02a1e66ca,2025-03-14 01:16:57.442544+00:00,credit,556.81,Payment to Anaya-Menéndez,Healthcare
+133717f3-d20c-465f-883d-6521a1e5b51d,2024-11-09 14:08:21.365330+00:00,debit,1415.36,Payment to Gutiérrez y Puente e Hijos,Education
+b219a7ea-1b33-4330-afb2-dd0441a697b2,2024-10-03 02:04:56.387482+00:00,debit,8787.91,Payment to Grupo Ozuna-Borrego,Utilities
+28104133-940e-4d8f-b707-98dd01940c2c,2025-07-16 13:47:30.938146+00:00,credit,4067.33,Payment to Razo y Zaragoza S.C.,Healthcare
+27f5270f-8f34-47c5-8126-6902858236b9,2024-08-04 16:22:14.105411+00:00,debit,687.93,Payment to Club Vela-Tapia,Other
+d73a47b8-52a6-4242-97d9-d778731da883,2025-04-09 13:17:52.373002+00:00,credit,224.08,Payment to Estrada-Santana e Hijos,Travel
+1cd3dbab-ebba-4476-a7c4-23198090956c,2025-02-04 06:40:48.944042+00:00,debit,3584.52,"Payment to Proyectos Arteaga, Arroyo y Romo",Education
+12ae6179-fe91-4b1a-b5de-532ed3c7dc91,2025-06-24 03:42:24.349345+00:00,debit,643.11,"Payment to Corporacin Matías, Corrales y Palomo",Utilities
+e26250f1-8810-4c0a-b2f0-7457b3ba4ffc,2025-01-16 22:20:12.308180+00:00,debit,388.83,"Payment to Zaragoza, Castañeda y Nájera",Travel
+932262a2-5fe1-4f21-935c-a4fa1d02343b,2025-01-24 23:27:14.315060+00:00,debit,850.84,"Payment to Club Pérez, Valle y Pelayo",Housing
+1add85b0-2513-4f20-b527-dd488b8b2ec2,2025-03-25 17:26:24.555072+00:00,debit,152.61,Payment to Club Olivera-Aranda,Healthcare
+6724547a-fdf4-43b5-a1a3-10b2d4d81bbf,2025-05-21 02:05:23.771830+00:00,debit,776.0,"Payment to Despacho Arteaga, Jasso y Alarcón",Entertainment
+94089c1e-eef6-4c87-ac83-448307f22c83,2024-11-19 04:41:18.002774+00:00,debit,437.17,"Payment to Razo, Cordero y Quiroz",Travel
+28a66fcc-521d-4ac4-9e7f-f5be1967e528,2025-06-17 15:24:15.289256+00:00,credit,203.65,"Payment to Laboy, Ozuna y Alarcón",Entertainment
+de0bfa7e-86b3-4b0f-baad-a34e8d3ad0dc,2025-03-02 00:01:32.610338+00:00,debit,2873.82,Payment to Club Ramírez y Serna,Entertainment
+e68927ba-f5a5-4390-9bf4-442dd4c07644,2024-08-27 06:41:56.598410+00:00,credit,4231.84,Payment to Tafoya y Pulido S. R.L. de C.V.,Dining Out
+8138b385-ccb8-463f-83af-d173f68913a4,2024-11-24 20:47:58.362748+00:00,debit,834.33,Payment to Girón-Ozuna e Hijos,Entertainment
+02e187db-2213-4965-9180-e3f406564345,2024-09-21 03:35:17.670127+00:00,debit,2668.12,Payment to Corral-Macías S.C.,Groceries
+a405be31-4c62-4159-8161-08df0b3715b2,2025-06-13 22:43:59.572488+00:00,credit,1110.63,Payment to Gómez-Villarreal,Housing
+1d43a07b-14b6-4cc1-9581-4a735a0d48eb,2025-01-14 00:48:38.270276+00:00,debit,3304.51,"Payment to Grijalva, Jáquez y Montalvo",Utilities
+20ebd79f-e43f-4be5-9a41-1d7062059459,2024-11-19 00:47:27.117714+00:00,debit,4119.38,"Payment to Gonzales, Pizarro y Zambrano",Travel
+70a1b389-d5f9-4da4-b14c-e21c8fde0789,2025-04-28 22:26:34.130090+00:00,debit,2372.85,"Payment to Grupo Guillen, Valencia y Ocampo",Groceries
+764df8a9-c800-4f96-8196-9bba5cc529fd,2025-05-31 21:55:49.394897+00:00,debit,450.94,Payment to Garrido-Guerrero S.C.,Healthcare
+e4d5255e-76eb-4a1d-9027-10e46316bad1,2025-03-12 09:58:55.266358+00:00,credit,1395.03,Payment to Sosa y Vergara A.C.,Other
+d310d00a-0fec-4871-a5d7-22ed3f6f9b31,2024-10-19 07:33:18.433709+00:00,credit,6055.23,Payment to Esquibel y Márquez S.C.,Other
+3408c5df-4403-4be3-98c6-5c9e7fc80668,2024-08-19 20:30:06.982575+00:00,credit,300.71,"Payment to Duarte, Murillo y Godoy",Groceries
+4f7e3681-4028-41a7-b358-18f025ef2dbf,2024-08-07 12:45:38.569201+00:00,credit,866.97,Payment to Mena-de Jesús,Entertainment
+1209a79d-9b99-489a-945e-8387cec23dab,2024-09-12 01:41:36.308081+00:00,debit,136.14,Payment to Delgado A.C.,Housing
+83fa2ee8-ce23-4046-b1ef-a04b518b7ff9,2025-04-13 09:38:05.075595+00:00,debit,2840.71,Payment to Corporacin Godoy y Uribe,Other
+66db616b-cb25-4421-a1de-eb459754c9fd,2024-08-07 01:32:42.055911+00:00,debit,3151.15,Payment to Laboratorios Portillo y Sierra,Groceries
+0a067832-3e42-42fa-882d-b84254ebce14,2025-07-12 04:33:48.358513+00:00,credit,1291.93,Payment to López-Acosta S. R.L. de C.V.,Other
+b452530d-0171-4fb2-ac9c-ede192fd8fd3,2025-07-02 10:13:31.315711+00:00,credit,2916.67,"Payment to Grupo Tórrez, Rosario y Tello",Education
+caf56ab9-c7d3-4f1e-83d9-b0249e2f9e42,2024-08-04 12:37:42.746447+00:00,credit,3178.22,"Payment to Tijerina, Porras y Valencia",Subscriptions
+ddb43eeb-42c5-408c-ba29-87231e9739b2,2024-12-20 15:58:19.213538+00:00,debit,557.94,Payment to Rodríguez y Peralta S.A.,Housing
+05c57524-08e9-436a-a68a-4d47232a64dd,2024-09-27 15:32:46.026008+00:00,credit,982.09,Payment to Grupo Saucedo y Nájera,Housing
+09e071ac-ee5f-4d3e-8447-79f2f242340d,2024-09-27 19:53:38.429625+00:00,credit,7567.53,Payment to Mejía-Marrero S.A. de C.V.,Groceries
+1ba9e0b8-8163-46bf-8bec-5adf86fdd14f,2024-09-24 16:18:32.234753+00:00,debit,739.47,Payment to Despacho Valentín-Escalante,Housing
+8b1bac41-dab1-442b-b3ee-fa7ff3fada39,2025-04-17 01:22:06.833670+00:00,credit,326.08,"Payment to Tejada, Ávila y Pabón",Entertainment
+6fd31021-a386-4a07-a58d-35eaa59f06c2,2024-11-06 20:23:29.927981+00:00,credit,657.55,"Payment to Despacho Gracia, Ochoa y Ríos",Groceries
+4dd75759-03ac-4cec-ba56-8e86c62f8cb4,2025-03-27 23:07:43.875654+00:00,credit,3415.83,"Payment to Corporacin Vergara, Monroy y Terrazas",Utilities
+697a3a60-6ef8-403a-a2d6-a3037e4f9d8c,2025-05-24 21:08:41.459502+00:00,debit,197.96,"Payment to Club Noriega, Reséndez y Ulibarri",Healthcare
+6af3ca92-f17d-451a-b616-e14e8e7c306d,2024-12-31 07:07:59.750373+00:00,debit,549.63,Payment to de la O S.A.,Education
+fc8eb7e5-a229-48df-9007-9d86995a8b85,2025-04-18 17:10:13.433193+00:00,credit,376.67,Payment to Barraza-Robledo,Utilities
+70bcea58-6fc2-487d-8649-e4f7cb59ad66,2025-06-30 09:52:47.540148+00:00,debit,1857.03,"Payment to Industrias Maya, Ceballos y Carrasco",Healthcare
+c487e0a0-f28d-4462-8bc2-b6ec3d0b3675,2025-06-14 11:13:15.805727+00:00,debit,1422.7,"Payment to Grupo Rivero, Ozuna y Riojas",Groceries
+bd38ec19-9b9c-44ab-b353-298e0afdcbc4,2024-08-29 15:59:53.170509+00:00,debit,842.21,"Payment to Laboratorios de Anda, Parra y Alonzo",Gasoline
+c0fa1ca0-99cf-4968-9479-41d86be0018c,2025-05-21 17:05:49.422205+00:00,credit,348.31,Payment to Santana y Sauceda S.A.,Other
+0ca7443c-fea0-4bac-b799-2fc3360e4f07,2025-01-19 13:14:52.671951+00:00,credit,148.34,Payment to Despacho Zavala-Ruiz,Healthcare
+ba50467c-abd3-427b-adb1-957d7fdfbc35,2024-10-25 01:01:09.335438+00:00,debit,9971.71,Payment to Madrid S.A.,Utilities
+57840d80-951b-41e5-bf9f-a9587931ed7d,2024-11-03 02:47:43.632530+00:00,credit,9935.84,"Payment to Club Gaitán, Villa y Aranda",Subscriptions
+b672b1ac-9e5e-4732-88b9-d9fc36e31977,2024-09-27 13:31:27.708178+00:00,debit,82.39,"Payment to Despacho Benavídez, Corral y Roybal",Subscriptions
+d0029dfd-5e3a-429d-b787-4f2353e38bde,2025-02-15 13:54:10.926807+00:00,debit,250.88,Payment to Industrias Vera y Salazar,Gasoline
+56d8e23f-ccc9-44c7-b8a1-5bebc0140dcd,2025-01-22 20:48:56.556779+00:00,debit,167.05,Payment to Magaña y Tafoya S. R.L. de C.V.,Dining Out
+9a490c9b-9d1a-419e-bac5-d62b92023f73,2025-02-19 15:20:50.482270+00:00,debit,614.13,"Payment to Proyectos Rolón, Martínez y Saavedra",Education
+fe33aa0e-046d-49da-95dd-3a8bbdde3677,2025-05-25 12:49:34.957061+00:00,debit,768.08,Payment to Guardado-Mondragón,Entertainment
+debaf69c-776c-49e4-b6ed-0c60ce172320,2025-06-06 18:13:20.387411+00:00,credit,478.13,Payment to Laboratorios Valadez y Rolón,Other
+c335a8e2-6835-425c-92ee-f303b447eaa7,2024-11-19 03:22:59.691904+00:00,debit,7243.01,Payment to Carrión y Asociados,Entertainment
+8940cd5b-3d3a-47f1-99d3-c93d0fd9fbb2,2025-03-05 14:31:08.475954+00:00,debit,694.14,Payment to Laboratorios Juárez y Cornejo,Housing
+93b20812-7dcf-4ca2-acaa-dd09f1156632,2024-08-25 03:57:41.604162+00:00,credit,6729.44,Payment to Rocha-de la Fuente S. R.L. de C.V.,Utilities
+e994c537-ee1b-49b1-a6ad-0846d699c554,2025-06-21 18:44:43.019748+00:00,debit,4533.56,"Payment to Aragón, Amador y Arellano",Education
+1d2a4262-dc04-4056-9ed7-364ff64a6dac,2025-06-10 13:54:44.030254+00:00,credit,820.37,Payment to Marrero-Aguirre,Gasoline
+d1b39c60-cffa-4253-9a85-6be8a55597eb,2025-02-13 19:59:52.126986+00:00,credit,934.72,Payment to Corporacin Perea y Galván,Dining Out
+4b8f6b50-eaf7-4258-ba3e-159f6ed1a331,2025-05-19 05:35:30.393031+00:00,debit,1077.13,Payment to Lira e Hijos,Dining Out
+480ceff8-7de7-4ca3-8bd6-7815c507d4a6,2025-07-17 23:15:20.446171+00:00,debit,9502.84,"Payment to Laboratorios Valle, Padilla y Suárez",Groceries
+39d496fc-713c-4445-9b57-6c6a17361f26,2025-03-09 14:43:52.821035+00:00,debit,573.31,"Payment to Olivera, Angulo y Galindo",Dining Out
+6a45dee0-0cf3-47e5-9564-1397e1c59b38,2025-07-15 15:33:24.193729+00:00,credit,2078.3,Payment to Calvillo-Díaz A.C.,Housing
+40a2fd16-555f-4cb2-82db-fd8d70a9c15e,2025-01-05 20:10:15.230484+00:00,debit,163.77,Payment to Botello-Berríos S.C.,Other
+c9aa102b-25ae-4a57-8b01-440264fa9146,2025-03-03 12:05:19.404061+00:00,debit,1322.06,Payment to Vaca-Pantoja,Education
+9294ec17-9691-4ec4-8e14-e79ca1e4ce32,2025-04-08 10:27:07.408786+00:00,credit,970.38,Payment to Estrada-Perales S.A. de C.V.,Travel
+9d3eab51-428d-4d56-be6c-64ad69fec2cd,2025-05-28 06:59:20.658861+00:00,debit,441.17,Payment to Corporacin Castellanos y del Valle,Healthcare
+3a876842-f877-4aaa-bf3a-9975e32b9e11,2024-11-17 22:10:12.241824+00:00,credit,131.5,Payment to Proyectos Guevara-Feliciano,Gasoline
+339822c7-3a85-43cd-b5d7-8b7397f112f8,2025-04-19 16:06:25.335838+00:00,credit,503.49,Payment to Laboratorios Ocasio-Salgado,Dining Out
+e23cc502-5ade-4186-92e8-ea5a1e6000b7,2025-02-04 14:08:43.818666+00:00,credit,328.11,Payment to Barela y Murillo A.C.,Groceries
+13514082-753c-4f9d-bdec-1f57120da3e0,2025-01-30 02:18:21.831398+00:00,credit,187.93,"Payment to Club Griego, Cabán y Palomo",Education
+592eb41b-1652-4584-bd39-c4a18eece735,2024-12-05 12:10:49.870794+00:00,debit,709.06,Payment to Tafoya-Gonzales y Asociados,Travel
+b70507b3-3029-4cab-a9e8-da7e0cc5cb4f,2025-01-27 14:29:14.947668+00:00,debit,342.84,Payment to Barela-Barela,Groceries
+231e0701-de27-4a01-9aa8-c4977963cdcb,2024-09-09 10:48:35.712295+00:00,debit,2997.19,Payment to Padilla y Guzmán y Asociados,Subscriptions
+96528516-2e7a-4136-b443-659a32d9e000,2024-08-14 05:51:37.800250+00:00,credit,71.61,"Payment to Laboratorios Mascareñas, Muro y Galván",Healthcare
+b5704aa2-ab33-43ff-bf09-6527164aa368,2024-10-12 17:27:21.704742+00:00,debit,61.57,"Payment to Varela, Cabán y Molina",Entertainment
+bdc128c6-689d-40f4-9c0e-55b0a3e904ec,2024-08-12 20:22:13.752402+00:00,credit,474.8,Payment to Saiz-Amaya e Hijos,Dining Out
+c4d12868-9e02-465d-a7cf-6acc26b52d8a,2024-09-25 11:57:02.515893+00:00,debit,7349.72,Payment to Proyectos Nevárez y Carrera,Entertainment
+a2384a4a-e506-45f6-b13a-924fff493246,2024-12-22 22:48:26.343437+00:00,debit,273.49,Payment to Industrias Echeverría y Ruelas,Dining Out
+656d7112-462f-4664-92d7-1b5560e834cb,2025-03-30 23:15:41.546863+00:00,credit,3419.61,Payment to Frías y Cadena S.C.,Other
+511c320a-f978-45f9-936f-823319fa7ac8,2024-10-16 01:34:04.479474+00:00,credit,1101.21,Payment to Industrias Aponte-Rael,Utilities
+d189eb0a-e4ff-4cd4-8e5d-8576ea69d68e,2025-06-26 04:37:47.956264+00:00,debit,642.34,Payment to Mondragón y Gracia e Hijos,Housing
+3f8b5e93-f97d-4b6e-84ea-65e1e63f2007,2024-09-03 17:00:35.007791+00:00,debit,2356.35,Payment to Corporacin Juárez-Briones,Healthcare
+a938841f-5b56-4455-a63c-c7896e6c82f2,2025-03-09 03:49:53.704189+00:00,debit,764.27,Payment to Otero-Alonso S.A. de C.V.,Subscriptions
+5059e0ad-1865-4fe4-b3c5-6129b4181e18,2024-12-07 15:21:02.813967+00:00,debit,1179.74,"Payment to Domínguez, Granado y Bustamante",Housing
+26bc2c56-bd30-4e52-959c-f4663eee5f16,2024-10-13 19:34:28.821343+00:00,credit,676.84,Payment to Mayorga y Asociados,Education
+4f3a2ac8-ecb6-4b40-99bd-cf433b0dd8f0,2024-11-18 03:40:51.883521+00:00,credit,961.1,Payment to Ureña S. R.L. de C.V.,Groceries
+211b372a-05d5-459e-9767-810021ce9d57,2024-12-10 00:46:52.253940+00:00,credit,1243.86,Payment to Verduzco-Fuentes e Hijos,Dining Out
+f6f237f4-52c8-4820-9b62-ebea497384b1,2025-02-18 00:42:07.873507+00:00,credit,7169.52,Payment to Industrias Griego-Ballesteros,Subscriptions
+40e5c326-ab43-41f3-b688-9860d4c480c6,2025-07-19 07:16:55.727406+00:00,debit,4254.27,Payment to Gamez S.A.,Groceries
+7cba5c18-6076-4f17-8340-60f165046afe,2025-02-14 02:25:35.179248+00:00,credit,4724.22,Payment to Laboratorios Valles-Salgado,Travel
+7964c7e8-6a18-4c36-b566-5c2fc4691e77,2024-09-18 10:41:15.021722+00:00,debit,3515.66,Payment to Barajas e Hijos,Subscriptions
+f561eb08-c07e-4b4d-84d9-0fd8bc327e9c,2024-08-23 09:23:20.498930+00:00,credit,8106.21,Payment to Industrias Bravo-Trejo,Groceries
+c0af3b6f-67f4-434d-a78b-8da33e06d69d,2025-01-02 22:01:40.260206+00:00,debit,621.37,Payment to Laboratorios Montemayor-Bétancourt,Subscriptions
+4eba3982-a455-4bc9-b5cd-825d68a20ad2,2025-02-20 13:03:29.292114+00:00,debit,1033.26,Payment to Calvillo-Rosas,Gasoline
+3e23e15f-4441-4477-8384-e5149a4c4168,2025-04-18 21:12:11.055001+00:00,credit,853.38,Payment to Grupo Pérez-Almanza,Entertainment
+ea1ec90c-dc9a-4ba8-a73a-370708c4ba0a,2024-09-23 07:54:09.070937+00:00,debit,621.41,Payment to Cervántez-Rojo y Asociados,Entertainment
+2199feec-a2a9-4191-943e-b73fa43b5a4c,2025-05-09 00:08:49.000763+00:00,debit,138.19,Payment to Mojica y Ramos S.C.,Healthcare
+d7d82297-92ac-4e25-948a-640ffd5edc02,2024-10-05 21:50:32.746110+00:00,debit,66.16,Payment to Saldivar-Reyes,Dining Out
+13d2946c-44ff-4c0e-9613-57871b129242,2024-10-15 13:11:30.279604+00:00,debit,1180.81,Payment to Borrego y Lara S. R.L. de C.V.,Travel
+226d2676-939f-4b28-9993-cdac4181bd70,2024-12-04 19:04:43.848451+00:00,debit,6107.74,"Payment to de la O, Alvarez y Garica",Entertainment
+15f13af1-ae6a-47c7-bdcd-0e370671d83f,2024-09-30 03:48:59.550095+00:00,credit,2373.82,Payment to Despacho Olmos-Caraballo,Dining Out
+7637e511-832d-43ed-b69d-f25011c9e0f3,2024-09-26 08:23:35.634524+00:00,credit,6633.19,Payment to Nieto-Torres y Asociados,Groceries
+226ca7a3-d0aa-4e5f-900b-cd2abcd9dc86,2025-02-20 03:39:58.224587+00:00,credit,1163.43,Payment to Grupo Galván y Chávez,Travel
+36ee5d06-eb21-4093-a3b4-8180a96b332d,2025-04-28 14:15:34.124396+00:00,debit,331.21,Payment to Huerta S. R.L. de C.V.,Gasoline
+090387d5-4875-40ea-8e77-0a443c858b08,2024-10-31 03:41:49.528821+00:00,credit,921.13,"Payment to Delgadillo, Marroquín y Magaña",Housing
+3bc7817f-dcde-4447-a152-ea818657c230,2025-04-04 16:35:58.241984+00:00,credit,4812.69,Payment to Arreola-Prado y Asociados,Entertainment
+20f38494-0709-4a3c-8297-7d4c87918b2f,2025-05-05 13:48:33.735530+00:00,debit,281.29,Payment to Cuellar y Nevárez S.A. de C.V.,Gasoline
+92de3db3-31fb-44aa-a456-27e5f7848833,2025-07-10 20:49:07.313699+00:00,credit,678.07,"Payment to Industrias Valdez, Zambrano y Fajardo",Travel
+3e8b0442-e686-4e66-816d-ada69a1b7e34,2024-08-25 14:17:57.450921+00:00,debit,867.84,Payment to Corporacin Brito y Perea,Travel
+5813a0f0-1148-406a-bf92-07b2091e701d,2024-08-06 03:12:37.764729+00:00,debit,1764.51,Payment to Muñiz y Franco S.A. de C.V.,Groceries
+21e7a291-40fb-4e47-9e8d-582c1fd3f9bd,2025-06-06 16:47:22.690431+00:00,credit,2995.66,Payment to Aponte y Lugo e Hijos,Entertainment
+60c67d70-eb7e-42e9-bc44-c47d0060f78d,2024-08-31 01:06:24.408624+00:00,credit,480.57,Payment to Vela-Quesada,Groceries
+7d3e9f93-d348-497f-86c6-e2c519a33bc3,2024-12-03 19:29:26.336296+00:00,debit,205.98,Payment to Urrutia y Cavazos e Hijos,Subscriptions
+6eb6212e-e7a9-4747-a143-9c56603261f4,2025-02-28 16:21:54.119479+00:00,debit,9495.61,Payment to Gálvez y Muro S. R.L. de C.V.,Healthcare
+2dab6fe7-c993-4b9c-924e-383b473eee35,2024-12-22 20:41:30.001526+00:00,credit,886.77,"Payment to Grupo Ruiz, Tirado y Cordero",Housing
+348c66c1-fde5-4e0c-99c5-cbfa1b854c1e,2024-12-15 16:19:19.593127+00:00,credit,737.54,Payment to Cotto y Tapia S.A.,Gasoline
+40b567e9-2e64-4c51-a448-4ddfe94fde5f,2024-11-02 07:33:34.472269+00:00,credit,4740.8,"Payment to Corporacin Díaz, Sisneros y Salinas",Utilities
+846b1173-bac8-4654-af0e-7c2ff5eae4f1,2024-11-13 01:03:58.769328+00:00,debit,3236.61,Payment to Grupo Grijalva-Haro,Dining Out
+d40a8d4a-10da-4992-b7e2-319afa5e420c,2024-08-29 18:27:06.101894+00:00,debit,3396.32,Payment to Corporacin Valle-Gaitán,Dining Out
+9763c484-679a-4308-927f-d16270828ca0,2024-09-16 11:49:44.295749+00:00,credit,4395.37,Payment to Laboratorios Salgado-Ceja,Healthcare
+ea76052d-85c2-407f-8ada-c0b67108f6ed,2025-04-19 01:16:34.544754+00:00,debit,916.65,"Payment to Casares, Curiel y Meléndez",Dining Out
+678a107c-2704-47f0-be6d-de3b2617ca3b,2024-09-04 07:05:16.840833+00:00,credit,731.29,Payment to Castillo y Gamez S.C.,Other
+7b783f96-4b1a-4b3c-858e-71b2802bd0f9,2024-09-12 20:56:28.087121+00:00,debit,9484.96,Payment to Chacón-Garay y Asociados,Utilities
+ea82e958-e206-4e75-9526-d07ba389545b,2025-06-20 07:16:39.666291+00:00,debit,125.4,"Payment to Salinas, Villanueva y Garibay",Gasoline
+5586b55a-8f3d-430c-8f2b-d3609b803339,2024-10-31 05:01:45.083169+00:00,debit,4640.74,Payment to Romo-Casillas S.A.,Education
+5a9c5f49-7c2e-4f36-a23f-ea3bda4da29d,2025-02-17 16:52:05.666650+00:00,debit,3943.81,"Payment to Grupo Rivas, Esquivel y Amador",Healthcare
+fc4e8995-0d9c-459e-9c3d-0e20d5267034,2025-01-10 09:31:21.115663+00:00,credit,3539.52,Payment to Laboratorios Guillen-Ojeda,Housing
+a80fe348-aba8-4207-92b3-65338e370998,2024-12-14 20:35:15.405734+00:00,debit,4432.28,Payment to Villarreal-Tafoya S. R.L. de C.V.,Gasoline
+e5224950-26a8-4c51-bf0c-8b37b76cecff,2025-07-01 12:43:49.578216+00:00,credit,680.9,Payment to Corporacin Reyes-Salas,Healthcare
+37c5248d-9a7c-469e-b165-ce3d63c00b82,2025-06-23 00:40:29.730152+00:00,debit,670.03,Payment to Venegas-Olivas S.C.,Dining Out
+1ce3a13a-e7bc-4b39-b316-186ecc0689aa,2024-12-26 19:17:01.269413+00:00,credit,3378.36,Payment to Robles y Olvera S. R.L. de C.V.,Gasoline
+a43e8e51-3617-4e8e-a4d3-0539add7d1f6,2025-07-22 15:58:55.210479+00:00,debit,1460.35,Payment to Grupo Villarreal y Rosado,Education
+10cd45ed-303f-4c37-a74a-6103d9fd2b8b,2025-01-11 08:33:56.434780+00:00,credit,634.34,"Payment to Club Robles, Olivárez y Olvera",Subscriptions
+b60290f3-0373-4dd7-89da-9236b08f8794,2025-03-27 03:32:36.007260+00:00,debit,3926.28,Payment to Valles-Rubio e Hijos,Housing
+c6838c95-a8aa-4c47-acd9-a76a216885c8,2025-03-15 22:18:48.763574+00:00,credit,581.11,Payment to Industrias Rolón y Raya,Entertainment
+531ab461-6a2a-4853-936a-e483dde3929a,2024-09-19 03:30:40.836437+00:00,credit,578.92,Payment to Alvarez-Tirado S.A.,Entertainment
+94d291ff-641a-403f-8953-f523bd0c4bbb,2024-10-28 23:18:05.081134+00:00,debit,4810.94,Payment to Maya-Bonilla e Hijos,Groceries
+54834bd2-db1f-4be4-9e43-a869c050b9d1,2025-03-02 08:13:05.070178+00:00,debit,1152.37,"Payment to Grupo Padrón, Salgado y Gaona",Dining Out
+4b5d494e-2a19-4cab-a201-54015d1f88ae,2025-01-25 18:26:45.349538+00:00,credit,753.31,Payment to Ponce y Flórez S. R.L. de C.V.,Gasoline
+987a5831-3495-4e90-ba4d-04fd4a6da288,2025-03-29 12:35:24.334705+00:00,debit,3909.56,Payment to Laboratorios Guardado-Acuña,Dining Out
+ab4fde7f-b15d-43c1-89e5-6abdc7d93200,2024-10-03 01:15:05.323488+00:00,debit,2428.23,Payment to Garrido-Castellanos,Subscriptions
+d2c2232a-7f6f-483d-a5a3-a4de4eb3e353,2024-12-03 20:49:58.262295+00:00,credit,501.28,Payment to Mayorga-Sosa,Education
+f3b327c7-aa58-44dd-904c-adbef0501268,2025-03-07 12:51:17.187443+00:00,credit,4944.54,Payment to Industrias Negrete y Aranda,Entertainment
+0935cae8-a41a-4b54-9826-63439a13f7bb,2025-04-21 16:04:48.194510+00:00,credit,3929.74,Payment to Grupo Barrientos-Santiago,Subscriptions
+b0e59f20-de55-487d-adca-376763c590aa,2024-10-09 04:34:00.347545+00:00,credit,9160.4,Payment to Laboratorios Durán-Chapa,Utilities
+2f091a4e-762a-4043-be66-9c0440d429b1,2025-05-24 10:22:14.393780+00:00,credit,4714.74,Payment to Industrias Sandoval y Santiago,Travel
+2e202c51-b609-480e-b515-e639d5d2bbd1,2025-04-21 17:30:35.895628+00:00,credit,173.79,Payment to Porras S.A. de C.V.,Healthcare
+bc827077-61cf-4357-ae80-44935b0187ee,2024-10-21 09:59:53.935885+00:00,credit,1889.38,"Payment to Corporacin Solís, Villagómez y Armenta",Travel
+f5ae15ee-2a87-48b9-bcd5-8b218405bed7,2025-05-12 07:10:35.409081+00:00,debit,921.07,"Payment to Osorio, Trejo y Romo",Gasoline
+ae9e936a-91fe-4a20-96ee-46c5988f9d20,2024-11-06 22:02:29.298985+00:00,credit,2724.51,Payment to González-Zavala A.C.,Entertainment
+74233f18-83c4-4a2f-8c6c-6d1d6b4f8b39,2025-02-28 10:59:09.700107+00:00,debit,601.31,"Payment to Laboratorios Cadena, Porras y Jaimes",Subscriptions
+74fd86f6-2df7-4200-99b0-916072f15fc6,2024-10-25 09:59:03.805853+00:00,credit,844.31,Payment to Grupo Cruz y Barrios,Entertainment
+1424f3e1-f4a7-4655-b18b-7a090b6ec751,2024-11-17 15:21:53.783550+00:00,credit,452.81,Payment to Despacho Salazar y Rodarte,Housing
+653eb781-b558-46f3-96f0-d3a816113279,2025-08-03 19:24:25.187310+00:00,debit,3157.51,"Payment to Ruelas, Ocampo y Bustamante",Groceries
+b77a34f1-7b12-4a78-9445-53a1fc89e34c,2025-03-15 03:37:23.282667+00:00,debit,68.19,Payment to Despacho Padrón-Granados,Entertainment
+9cc39d3f-3869-4240-ba8e-80b34e315309,2024-09-19 15:12:29.759079+00:00,debit,730.85,Payment to Despacho Ríos-Osorio,Other
+b544537d-f33c-4b93-af34-8d8e56f94948,2025-06-28 07:29:02.072207+00:00,credit,980.77,Payment to Despacho Castañeda-Quiñones,Other
+d68fc0d1-a8f4-4aa2-8b7c-8c22334fadf1,2024-10-31 15:17:03.995558+00:00,debit,907.76,"Payment to Gallegos, Barrientos y Mayorga",Entertainment
+63c04b92-abb1-4c81-b117-2ab0362bce81,2024-09-25 05:41:47.405248+00:00,debit,748.83,Payment to Benavides S. R.L. de C.V.,Entertainment
+4a8513da-cf07-4b48-9f07-157ecda71dbe,2025-03-16 11:25:47.705252+00:00,credit,227.04,"Payment to Proyectos Angulo, Tijerina y Contreras",Entertainment
+8892d89e-6e49-44e1-9db0-df4fe0c4f063,2025-01-23 12:17:41.291049+00:00,debit,536.72,Payment to Griego S.C.,Housing
+12f70a6c-570e-4e78-8f28-9ee18e0c1f13,2024-09-13 14:30:59.818355+00:00,credit,7141.57,"Payment to Tello, Ordóñez y Almaraz",Groceries
+9b3c4d75-77a6-44c8-b735-165ffa7199d7,2025-03-03 06:19:08.300926+00:00,debit,2186.54,Payment to Zamudio-Paredes S. R.L. de C.V.,Subscriptions
+13aa7094-a67c-4ad4-8056-87c408101644,2024-11-14 03:33:12.059383+00:00,debit,573.38,Payment to Ferrer y Feliciano S.A.,Subscriptions
+e0d8f4c9-86a0-421e-8ac5-1092bbe7c159,2024-12-04 04:12:48.023627+00:00,credit,396.56,Payment to Ureña-Aguilar A.C.,Gasoline
+c0f61212-10c3-4493-88cc-b72398f3589a,2024-08-11 05:28:59.812222+00:00,debit,490.68,Payment to Rodríguez y Vaca e Hijos,Housing
+bba7589f-d799-4a48-9a4a-e0faf08d9997,2025-05-12 06:29:07.432056+00:00,debit,918.89,Payment to Despacho Jiménez-Villalobos,Education
+413d50d1-0445-4c26-8077-479dbe9a3c26,2025-05-16 09:56:25.070153+00:00,credit,496.8,Payment to Palomo S.C.,Healthcare
+317fb046-476e-44cb-b84b-ee9a88f6dd84,2025-03-12 00:04:04.144029+00:00,credit,2039.16,Payment to Grupo Muñoz y Ontiveros,Subscriptions
+8fc4f549-feff-4771-ad93-9041295f6f1d,2025-01-14 00:33:25.112240+00:00,credit,3975.86,Payment to Club Castillo-Lebrón,Utilities
+c231e8c4-f06a-4ab6-9db0-bbc1f9c6b0ed,2025-03-09 16:07:22.642423+00:00,credit,3979.07,Payment to Nevárez S. R.L. de C.V.,Groceries
+2ef9a4aa-fd2c-4871-b208-6994bbe46e32,2025-01-26 13:31:57.293207+00:00,credit,990.64,Payment to Valenzuela-Cuellar e Hijos,Education
+0b8e6726-029d-45e7-9b0b-8af17b558bde,2024-10-12 16:00:18.185995+00:00,credit,4947.82,Payment to Bravo-Montero,Healthcare
+a6c80159-6e12-45d4-a79d-b3cf96fe5bdf,2024-09-16 05:34:24.033097+00:00,debit,270.66,Payment to Vera-Zamora S. R.L. de C.V.,Other
+593cabf3-bff6-4ff8-b27e-61a7c3b593c5,2025-02-17 17:34:53.537930+00:00,debit,447.37,Payment to Esquivel-Esquivel A.C.,Groceries
+2566a5c9-ed25-4f07-8758-0e60874eee2b,2025-07-23 14:15:35.176598+00:00,credit,4137.6,Payment to Arellano-Aranda y Asociados,Subscriptions
+40655277-8e61-4d5b-ac0e-736af6f07107,2024-10-09 03:04:09.739245+00:00,debit,697.76,Payment to Laboratorios Ochoa y Sotelo,Housing
+f7456306-0642-481a-90cc-86546160228d,2024-10-22 13:45:15.978284+00:00,credit,1935.13,Payment to Gallardo-Enríquez,Housing
+e5db7991-c5ca-4350-9ebc-6db50eb589ca,2025-07-01 09:26:28.966131+00:00,credit,6954.78,Payment to Grupo Valdez-Pichardo,Education
+cc4d3a01-e17c-4205-b0eb-c4a52dc05d2e,2025-01-18 10:21:38.175129+00:00,credit,2920.17,Payment to Grupo Saiz-Ordóñez,Entertainment
+4b22b4a7-7dd0-4b01-b4bc-eda435000816,2024-11-23 16:46:55.263006+00:00,debit,283.71,"Payment to Grupo Carrión, Montero y Venegas",Travel
+bfa87c1e-210f-4e61-a76b-61a0d9eaf9d4,2025-03-17 21:42:52.786623+00:00,debit,1157.25,Payment to Loera S.C.,Housing
+b1c72c52-b042-44f5-8c74-96486620536d,2025-04-08 02:05:53.918941+00:00,credit,9294.27,Payment to Corporacin Montalvo-Estrada,Subscriptions
+ade00cca-4815-48a9-b1f1-d3c3adbf4638,2025-05-29 11:50:19.701000+00:00,credit,6439.17,"Payment to Industrias Paredes, Romo y Acosta",Groceries
+2b0a11cc-07a2-42ce-b357-a0048bc4cf46,2025-07-06 22:07:48.094730+00:00,credit,612.72,"Payment to Industrias Garica, Briseño y Villegas",Education
+b5e6ec42-4daa-4e22-99a4-53a13ed8127b,2024-09-25 15:47:55.803143+00:00,debit,2846.19,Payment to Rascón-Verdugo S.A. de C.V.,Subscriptions
+95b13e4b-9e81-4d22-98dd-ed09e618e875,2024-12-22 08:51:16.626398+00:00,debit,214.34,"Payment to Proyectos Rael, Franco y Olivares",Other
+ad0c9914-6f54-4594-a137-3ee6e1fab0ea,2025-06-29 12:54:59.365984+00:00,credit,8099.52,Payment to Jurado A.C.,Dining Out
+58894348-af62-451e-b13e-c4847252b400,2024-09-01 13:29:24.920246+00:00,debit,69.96,"Payment to Puga, Centeno y García",Healthcare
+cd7e0766-3fe5-473d-870f-0f37e63b3580,2025-07-07 00:11:05.751913+00:00,credit,62.66,Payment to Grupo Esquivel-Limón,Utilities
+520de2cd-8aca-4a98-a8a2-833718e75760,2024-12-19 05:54:59.551643+00:00,credit,4648.41,"Payment to Gollum, Galarza y Crespo",Education
+57551bed-fb94-4b2e-be74-95250f37469d,2024-08-11 23:23:22.583448+00:00,debit,829.27,"Payment to Jimínez, Cepeda y Arriaga",Other
+e7432dca-0dfe-4ed2-9e02-e4dd2333fece,2025-01-06 22:06:18.139611+00:00,credit,970.17,Payment to Proyectos Rentería-Ybarra,Entertainment
+b9ef815e-a326-40f7-8a15-adc8b3816c5d,2025-03-26 12:01:24.453784+00:00,credit,4383.9,Payment to Galván y de la Fuente S.A. de C.V.,Utilities
+8294ce7c-05a4-459e-9045-21180723b341,2025-05-29 20:24:58.249432+00:00,debit,670.3,Payment to Corporacin Rosales-Vela,Dining Out
+7ff68e5a-c889-4854-b375-d9f92560763b,2024-10-28 15:34:36.412007+00:00,credit,139.21,Payment to Jáquez A.C.,Utilities
+a0d0f9d8-9db6-406f-a96f-c6aab84c482d,2025-07-30 16:28:14.883551+00:00,debit,817.77,Payment to Escalante-Durán,Other
+9d0faac1-3c25-4aae-b784-df1103d09669,2025-01-08 09:53:23.324153+00:00,credit,2491.97,Payment to Montemayor y Cadena y Asociados,Travel
+8d7e5012-4251-4a2f-9d19-8f7a4a7ef0ca,2025-01-22 18:46:45.223343+00:00,debit,2527.81,Payment to Acosta-Gómez,Subscriptions
+e806ae65-b37b-4374-994d-be79b279685e,2025-06-07 02:50:57.404674+00:00,credit,394.19,Payment to Paredes S.A.,Dining Out
+2741ca38-0556-4b95-a2bb-6a23ba6793dc,2025-05-28 21:33:23.074945+00:00,debit,3611.91,Payment to Holguín-Sanabria,Groceries
+cda58aad-9532-4406-9e70-f85472a16279,2025-01-05 08:12:46.746822+00:00,credit,403.2,Payment to Proyectos Malave-Benavides,Other
+a55fdbd6-fb1f-4871-9468-086b920dcbe7,2025-06-14 09:51:20.719254+00:00,debit,4393.44,Payment to Industrias Luevano-Briones,Healthcare
+5b215021-2958-4ca6-b72a-fd1b5b59d6aa,2024-12-24 13:55:05.582505+00:00,debit,3409.02,Payment to Vera-Collazo e Hijos,Dining Out
+e0adeaf4-4dd7-4bd7-a3bc-12d695a374f3,2024-12-27 14:00:56.881326+00:00,debit,1059.34,Payment to del Valle-Sanabria,Dining Out
+6c262050-9ea8-4600-a8a5-3cae69d0e103,2025-07-20 09:15:56.185925+00:00,credit,3731.56,Payment to Villareal y Quintero e Hijos,Subscriptions
+1a76553e-892e-4d8c-88a9-43b5d10e9052,2025-01-14 20:00:18.957354+00:00,credit,2904.61,"Payment to Club Herrera, Muñiz y Ramírez",Utilities
+9a0bdf4b-b9e9-482e-84b9-44a8e13e0c33,2025-07-10 09:36:38.919965+00:00,credit,952.28,Payment to Delgadillo-Olivera y Asociados,Travel
+4ffbb234-3f2a-4ab1-8fe9-14266eb0f97f,2024-09-14 22:50:03.375366+00:00,credit,9467.35,"Payment to Candelaria, Montes y López",Subscriptions
+3b1a39a1-ced6-4cee-8061-359528a5ac2c,2024-09-27 20:48:49.310892+00:00,credit,648.78,Payment to Alejandro-Vega,Subscriptions
+74877245-3053-4224-88c3-82a289fca941,2024-08-10 02:36:09.283424+00:00,credit,518.31,Payment to Tello-Montenegro S.A. de C.V.,Gasoline
+db389f3a-4ca0-4b03-a413-428ff1bd71dc,2024-12-12 05:43:20.429335+00:00,debit,2346.76,Payment to Reynoso-Ornelas,Utilities
+4d1babce-2532-44a3-9679-e659d85078d5,2025-03-11 06:48:08.111408+00:00,debit,9338.32,Payment to Vega-Ferrer S.A. de C.V.,Dining Out
+792ff8b8-8ffb-4e88-8fca-1a8dc82161b1,2025-05-26 12:50:08.072512+00:00,credit,8927.57,Payment to Enríquez-Portillo,Dining Out
+c895be0a-6e4a-4f20-a6e7-0c67d806179e,2025-07-29 03:41:17.260000+00:00,debit,318.97,Payment to Pedroza y Valentín S. R.L. de C.V.,Healthcare
+2d276ea5-ac35-4734-a88b-b791893eace2,2025-07-17 13:36:31.124746+00:00,credit,7703.5,Payment to Uribe-Cortez,Other
+5e862d84-6550-4973-b999-70346fb4542a,2024-12-12 08:07:08.266192+00:00,debit,254.02,"Payment to Rojas, Orta y Gallegos",Gasoline
+1b60c71b-bcab-45a7-9fde-14ec7752fdf5,2024-10-12 06:58:11.909671+00:00,credit,2334.84,Payment to Despacho Ceja-Alba,Groceries
+25af93fe-a88f-4d2c-b72f-904889b21ae1,2025-04-11 07:46:07.111240+00:00,credit,601.77,Payment to Matos-Cedillo A.C.,Entertainment
+df10737a-96d4-4c44-a0e8-9839654834cb,2025-06-10 19:20:58.172301+00:00,credit,3535.46,Payment to Raya-Valenzuela e Hijos,Education
+4cafc1a5-5b8b-4f54-bbfe-d18507d5963c,2024-11-14 00:44:17.647599+00:00,credit,4405.01,Payment to Almanza-Gamez y Asociados,Gasoline
+a186c975-f4e5-4f77-9fcb-a185c17a3aaa,2024-12-28 06:34:27.346630+00:00,debit,6031.76,Payment to Alvarez-Velázquez,Other
+5e1ff75e-d5e0-4cf5-ac8c-718a756a23c4,2024-09-25 03:08:25.370941+00:00,credit,2481.16,Payment to Carrera-Cabrera A.C.,Dining Out
+ac21b1a8-64af-4dc2-942c-6514001e4612,2024-09-23 05:45:45.952219+00:00,credit,1170.58,Payment to Barajas S.A.,Other
+3552525f-eefe-41ef-b022-5d8ecc12b7cd,2025-06-04 07:05:04.744202+00:00,debit,1122.75,Payment to Villalobos-Tirado S.A.,Healthcare
+96dbed3c-e4b4-4864-a460-15699be90f77,2024-12-28 00:01:19.896315+00:00,debit,7706.74,Payment to Canales S.A. de C.V.,Other
+63f151d8-f6cc-47be-a971-efe085863f7b,2025-06-05 01:14:18.601384+00:00,credit,3004.65,Payment to Curiel S. R.L. de C.V.,Healthcare
+058bcfc9-9273-47eb-a5a7-f3579a05ec35,2025-04-18 14:01:26.913615+00:00,debit,3849.48,Payment to Club Cabrera-Espinosa,Groceries
+f3287a59-a6cd-4b3c-9d1e-a53d488b2655,2025-01-17 09:54:17.373656+00:00,debit,2312.85,Payment to Castro S.A.,Travel
+2af422a5-3323-4149-a582-f7e877744796,2025-04-15 17:00:55.702979+00:00,credit,1267.7,Payment to Olivas-Rico,Dining Out
+cdf52e30-5429-4fda-b53c-ec372d855a8e,2024-12-25 02:33:26.528942+00:00,credit,323.11,Payment to Alvarado A.C.,Healthcare
+e404688e-c468-421e-81a6-9d5ae702c316,2025-06-09 23:27:07.724164+00:00,debit,2093.05,Payment to Despacho Ayala-Lucero,Housing
+d86db77d-421f-479a-81e5-5aeefe1db196,2024-12-19 14:42:09.493874+00:00,debit,456.34,Payment to Despacho de la Torre-Guzmán,Education
+90ae1c7c-9c0b-49c8-8876-d420a2e875bd,2025-04-23 09:20:50.246529+00:00,credit,2996.41,Payment to Proyectos Sánchez y Reyes,Healthcare
+28c37ed7-870b-4dec-83b4-def0c5b38e67,2025-07-16 02:17:31.571360+00:00,credit,87.61,"Payment to Velásquez, Magaña y Crespo",Other
+4a8e4060-d896-4a96-91cf-9af64f96d3dd,2024-08-10 08:32:33.053608+00:00,credit,2890.93,Payment to Aguilera-Franco,Utilities
+dfd8da6f-51e1-4a87-8e85-fade9e21c977,2025-05-16 06:36:47.071157+00:00,credit,320.54,Payment to Meléndez S.C.,Entertainment
+54ebad2d-7912-4ff4-8dfb-329d4ec11d3f,2025-06-10 11:40:51.317160+00:00,debit,2278.19,Payment to Corporacin Luna y Barrera,Utilities
+39e74514-c7f3-4b54-a434-440bde0ce202,2025-03-30 06:12:00.156076+00:00,debit,215.97,Payment to Velázquez-Escobedo e Hijos,Other
+7038aaeb-27fd-419c-845f-910ab5976e45,2024-11-22 18:00:49.055863+00:00,debit,322.67,Payment to Grupo Casárez y Elizondo,Entertainment
+e7672f9e-a0c8-4fa0-964f-0d2ccb441738,2024-10-15 19:20:52.611824+00:00,credit,245.19,Payment to Despacho Esquivel-Madera,Gasoline
+0894ceaa-1bb0-42ed-b343-2b1816d9f4b7,2025-01-06 14:12:08.930274+00:00,credit,302.56,Payment to Ochoa-Castro,Groceries
+9f0ba8aa-7d90-4500-9edd-81ddef4c9709,2024-10-31 21:21:02.398367+00:00,debit,78.07,"Payment to Valverde, Henríquez y Solano",Other
+2fc3141f-dc84-4c8f-888c-bd94c9ff86a7,2025-04-17 06:48:12.802302+00:00,debit,3598.21,"Payment to Gómez, Segura y Valencia",Utilities
+90b35e37-8449-4878-b835-833f31814bef,2025-05-03 18:32:51.564241+00:00,credit,1989.97,Payment to Garibay S.C.,Gasoline
+b2254535-7a45-4728-b570-8aeb68887797,2025-06-10 22:38:22.093366+00:00,credit,162.83,Payment to Urrutia-de la O,Gasoline
+86c938d3-98f0-4d55-be11-8db237f15d3d,2024-10-01 13:41:13.230078+00:00,debit,4149.03,Payment to Abreu-Narváez S.A.,Education
+d5808df2-ae11-4f70-a4d4-a30adf0cd4a7,2025-06-11 08:39:46.706270+00:00,debit,260.06,Payment to Luna S.A. de C.V.,Dining Out
+2fcd9b74-e84f-4995-879a-4d4dec0cb4aa,2024-08-29 01:08:38.703061+00:00,credit,4601.58,Payment to Industrias Guevara-Salazar,Subscriptions
+a2b971e6-ec03-472c-8731-86d5d2463013,2025-03-21 01:45:39.092188+00:00,debit,635.16,Payment to Palacios y Echeverría y Asociados,Education
+b8325c9b-cbdb-4c73-a0b6-848bfbddd55c,2024-09-11 03:45:57.416892+00:00,debit,4101.06,Payment to Henríquez-Ávalos A.C.,Gasoline
+ec1379d2-5e39-47b1-b379-e5707d94c3a1,2024-10-06 04:19:17.123596+00:00,debit,323.57,Payment to Montalvo e Hijos,Groceries
+dc18bda0-fa5e-497d-b062-2223986431e1,2025-05-08 06:34:47.773847+00:00,debit,613.75,"Payment to Soto, Rascón y Galindo",Travel
+ca8f604e-8ab2-4218-8739-12d25a31b9d4,2024-08-21 05:54:58.435232+00:00,debit,2354.56,Payment to Proyectos Henríquez y Puga,Groceries
+76d41429-98e8-4fb9-a81a-73d98c585278,2025-06-12 07:35:36.191376+00:00,credit,4911.1,Payment to Terrazas-Rodríguez S. R.L. de C.V.,Entertainment
+fd63fe8f-a9b2-4b82-93f1-6555e149f620,2025-07-15 11:12:38.313899+00:00,debit,202.99,Payment to Maestas-Ramos,Travel
+05988b4f-32a8-4428-8620-f277188b34fa,2025-07-27 23:58:21.474395+00:00,debit,889.41,"Payment to Laboratorios Martínez, Alfaro y Madrigal",Housing
+a11d2ef1-201b-4c34-a0b5-c1c6d3d20c89,2024-09-07 17:50:12.065147+00:00,credit,976.53,Payment to Esquivel-Sevilla S.A. de C.V.,Dining Out
+12ead358-19ad-4750-8688-d405e049581c,2024-09-11 03:01:39.191399+00:00,debit,581.24,Payment to Grupo Molina-Aguirre,Dining Out
+02291eb6-b2ec-4a6e-ae1e-e8d433608d41,2025-02-18 02:34:36.209474+00:00,debit,436.42,Payment to Proyectos Olmos-Quintanilla,Groceries
+16ed0f63-e48c-4d84-8702-bfdbbbcd452a,2025-01-15 08:09:04.473395+00:00,credit,2508.9,"Payment to Quiroz, Castillo y Espino",Other
+9b1288f9-cca4-40cd-a8c4-0a0b404dd727,2025-07-12 23:08:50.449818+00:00,debit,756.59,Payment to Marrero-Porras,Gasoline
+10ce9601-c098-425e-b82e-0f589ed149e4,2025-02-24 17:15:50.599170+00:00,debit,871.36,Payment to Madrid-Arias e Hijos,Education
+fb2cceb7-2ae6-4700-92a0-24d6a264c3cc,2025-03-16 03:20:06.749501+00:00,credit,768.23,Payment to Industrias Granados y Mascareñas,Healthcare
+ef112a22-9a65-487a-b64e-96e60bd537f3,2025-05-01 16:38:50.408322+00:00,debit,628.25,"Payment to Aranda, Téllez y Santillán",Groceries
+d0d03c6b-1aca-4488-b74d-472803b05550,2024-09-16 07:04:09.566287+00:00,debit,1155.35,Payment to Sosa-Mata,Utilities
+118933b7-ae49-4fc9-84bf-f11dcb916b57,2025-01-03 00:56:04.988983+00:00,credit,785.06,Payment to Montenegro e Hijos,Dining Out
+e9ad71fb-e759-4f24-b21a-b008e7a60c2e,2025-06-22 22:33:59.580040+00:00,debit,3446.39,Payment to Sanabria y Hinojosa S.A. de C.V.,Healthcare
+0b92c3d7-b192-47d7-9134-ecd1a50493c7,2025-04-17 09:53:21.447811+00:00,credit,948.36,Payment to Ávalos-Bahena,Entertainment
+d6749562-a6fc-44c5-a42f-1f6aac8f626c,2024-12-11 03:26:09.316642+00:00,debit,4116.95,"Payment to Laboy, Gamboa y Ledesma",Education
+f3eaab8e-86ce-4818-ad62-f350f7cf9025,2024-09-23 23:51:01.945298+00:00,credit,7467.89,"Payment to Acuña, Esparza y Quintana",Entertainment
+9248b5fa-dc1f-4750-ba4d-beb708c4115e,2025-02-13 19:56:14.814166+00:00,debit,295.99,Payment to Montañez S.A.,Entertainment
+ae069cbd-a364-4e6d-bdb5-26743a9e67e5,2024-08-18 13:14:15.304636+00:00,debit,3473.58,"Payment to Mena, Delgadillo y Collado",Entertainment
+8eea3a06-66d9-4f56-b157-52d45b3ff68d,2025-04-02 21:46:47.714152+00:00,credit,846.99,Payment to Medrano A.C.,Entertainment
+90a7a424-5689-47a1-b2ff-cd6e2558a9a8,2024-11-03 21:19:21.455578+00:00,debit,806.6,"Payment to Benavídez, Aguilar y Acuña",Subscriptions
+8d34a0dd-af4c-4859-a9e7-05ca46998d75,2024-09-19 05:21:24.888445+00:00,debit,916.73,"Payment to Grupo de León, Santacruz y Carrillo",Utilities
+7c35018f-53fa-4f8d-a3a3-64881972dd43,2025-04-14 13:53:22.472371+00:00,credit,4914.59,Payment to Arenas y Samaniego S.A.,Other
+3207d17a-776d-4de1-b59a-97b0ddf3d417,2025-01-07 10:19:50.460820+00:00,debit,6556.9,Payment to Padilla y Matías y Asociados,Travel
+330e7a6b-56ab-4fc8-bf12-816af3fc7f8e,2025-01-20 14:06:03.060948+00:00,credit,1123.36,"Payment to Proyectos Correa, Gálvez y Pantoja",Education
+cb18c141-c0e6-40e3-89f5-42cb4ec90507,2025-05-06 21:07:03.180782+00:00,debit,913.38,Payment to Industrias Sevilla-Bustos,Travel
+cbb26b5b-f538-4f39-8505-539ebc8ceece,2025-02-17 13:49:52.602060+00:00,debit,6106.62,Payment to Laboratorios Carvajal-Tamayo,Other
+ee1bac5b-5a52-477b-a26e-66ce4f37ed70,2025-05-05 18:23:20.796154+00:00,credit,170.63,Payment to Proyectos Zambrano-Montañez,Education
+47fe51eb-08f8-4221-a25d-d437b4f0298b,2024-10-31 23:50:48.562430+00:00,credit,9372.97,Payment to Industrias Quintero-Benítez,Other
+3c25fb53-cd3d-47e7-af07-c99926d8568a,2025-01-29 20:53:39.613832+00:00,credit,2252.86,Payment to Marroquín-Villarreal A.C.,Other
+137c49a9-ec74-4343-bbd5-a11569ce5d5e,2025-03-05 14:17:24.723248+00:00,debit,844.58,Payment to Nájera-Meza S.A. de C.V.,Healthcare
+4ba56ef4-41b7-4613-9485-faaeee24a85b,2024-12-10 12:59:18.418809+00:00,credit,1765.18,Payment to Barrera A.C.,Entertainment
+87f7f664-b011-4f83-90ed-4092c967f8fc,2025-03-19 22:06:07.919399+00:00,credit,175.42,Payment to Proyectos Valles-Riojas,Subscriptions
+a33b5595-718a-418d-9b22-392bae99a642,2025-07-16 05:51:56.357343+00:00,credit,4835.0,"Payment to Arriaga, Garrido y Narváez",Gasoline
+a80853cc-51c7-44d2-abec-8f92179dccae,2024-10-26 01:05:26.232216+00:00,credit,1843.65,Payment to Corral e Hijos,Education
+6a55355a-87f0-49e9-91e7-80b0770b59a2,2025-01-10 09:00:09.973603+00:00,credit,4062.95,"Payment to Guzmán, Montoya y Gil",Groceries
+8ff50a15-17be-46d3-8944-b667d6214c20,2024-10-14 19:10:29.190678+00:00,debit,1459.59,Payment to Proyectos Sisneros-Trejo,Utilities
+f0db563a-1b42-45f7-b1aa-9b7464e1b592,2024-10-11 16:59:36.505687+00:00,debit,3805.88,Payment to Saucedo S.A.,Dining Out
+74043c53-196f-44ed-a71b-9090083420a6,2025-04-15 12:13:12.226059+00:00,credit,8848.8,Payment to Grupo Ontiveros y Paz,Entertainment
+93f4fbdf-b410-41f2-a704-0c0ad2391470,2025-07-27 10:09:42.472248+00:00,credit,1272.37,Payment to Curiel-Roque,Subscriptions
+5f382a91-6a71-402f-91ec-c7a6dd2f4008,2025-05-26 19:39:00.848243+00:00,debit,75.01,"Payment to Quiñónez, Zamora y Zarate",Subscriptions
+6cbba99e-163c-49ac-bf12-7969809756fa,2024-10-15 12:29:52.454462+00:00,debit,820.03,"Payment to Club Gaona, Salcedo y Ferrer",Groceries
+a95e6264-329d-4679-846c-1240a77ab174,2024-12-11 21:51:51.613241+00:00,credit,314.7,Payment to Meléndez-Toro S.C.,Housing
+3fdbc861-c232-49ed-bda1-de815790ee0c,2025-06-17 06:54:01.330883+00:00,debit,871.7,"Payment to Bustamante, Soria y Almanza",Subscriptions
+b0d3b215-9301-4a94-8719-7b6b9291cba6,2025-04-17 06:19:25.507890+00:00,credit,3394.74,Payment to Proyectos Mireles y Barajas,Utilities
+ca5afe4e-65dc-4398-ae4b-32995afda8d8,2025-06-28 09:44:52.655152+00:00,debit,332.42,"Payment to Muro, Peres y Luevano",Education
+e8d1c160-66a9-47a4-ac3b-99ebc7eb513b,2025-05-17 18:06:33.633211+00:00,credit,8630.55,Payment to Laboratorios Trejo y Mireles,Groceries
+485124bd-2112-46ea-8286-550a6e7bebba,2025-01-08 09:03:43.346136+00:00,credit,9478.13,Payment to Ledesma-Tejada A.C.,Housing
+2f8c2099-7b61-4e79-a4ee-444e18d96c12,2024-09-24 18:18:16.531184+00:00,credit,306.34,Payment to Bravo-Peña,Groceries
+4a652690-41b3-492c-9768-2f6f3d3ac3f3,2025-08-03 03:17:21.599966+00:00,debit,916.09,"Payment to Laboratorios Cardenas, Griego y Rosales",Other
+8fa10276-ce87-4b5d-afec-07f154d00e89,2024-09-03 14:25:31.990675+00:00,debit,113.21,"Payment to Salas, Cruz y del Valle",Utilities
+748bb30d-0729-4040-bbca-94016f739ff6,2024-11-24 22:58:48.052995+00:00,debit,4739.19,"Payment to Mendoza, Arguello y Mascareñas",Other
+1cd89f26-8d36-483b-8604-589a6cb3c7b9,2025-01-12 10:16:40.781647+00:00,credit,791.7,Payment to Montaño S.A.,Entertainment
+87f47308-2248-436a-92f0-a27f662891b7,2025-03-23 22:23:51.143027+00:00,debit,618.67,Payment to Club Rentería-Meléndez,Subscriptions
+5f6f1838-ab56-450d-bb8e-7b14b6913e40,2024-11-10 11:21:59.012578+00:00,debit,131.01,"Payment to Cuellar, Anaya y Maldonado",Groceries
+3eb28b23-1e66-40c4-a5dc-05d84b780b80,2024-12-08 15:21:13.815193+00:00,debit,499.67,Payment to Rojas-Bustamante,Entertainment
+ee04fe51-cd31-46bb-8377-6152b4f3f81a,2024-10-03 01:05:35.918670+00:00,credit,3904.64,Payment to Bueno-Hernádez,Groceries
+1f61fb5c-cbca-4282-b4d8-5f3df0aec192,2024-08-19 01:41:37.380815+00:00,debit,107.67,"Payment to Cotto, Marín y Tijerina",Groceries
+baffa8a6-d3d5-40b3-b145-c9143fe76ee3,2025-01-30 09:38:15.473521+00:00,credit,3028.34,Payment to Proyectos Gamez-Maldonado,Other
+27929f78-2b74-4632-9109-7375b0552541,2024-08-10 07:05:37.717960+00:00,credit,9522.38,Payment to Industrias Castillo-Abrego,Gasoline
+15070a8c-545b-4d32-90a3-6df43dde2020,2024-12-28 11:13:13.972526+00:00,debit,4972.2,Payment to Laboratorios Limón y Madera,Other
+a8453813-2385-486b-a7ad-de1113fb8cfb,2025-03-11 13:50:06.185090+00:00,credit,176.6,"Payment to Despacho Navarrete, Meléndez y Colón",Gasoline
+79d08278-e6ea-46c1-af00-6ae242ede5be,2024-09-03 18:39:53.762363+00:00,credit,2486.56,Payment to Laureano-de Anda e Hijos,Utilities
+9411ec11-a485-4e56-b988-47562a11de21,2025-07-02 09:20:33.599286+00:00,debit,139.98,Payment to Laboratorios Franco-Farías,Gasoline
+0ca5eb74-075b-4157-9696-2a89c185e3ef,2024-11-02 22:55:26.799858+00:00,credit,4562.79,Payment to Orta-Carrera e Hijos,Utilities
+9d16374d-5126-4be3-a48c-6f94618202aa,2025-01-04 10:52:58.039518+00:00,debit,188.78,Payment to Industrias Bustos-Sierra,Groceries
+fe7f24a3-24e1-43d9-acc6-68ebe0cf3e2b,2024-10-25 09:02:02.646773+00:00,debit,292.89,Payment to Olivera-Burgos y Asociados,Education
+15a23924-672f-4539-b286-a96913f64b16,2025-01-08 03:03:53.915325+00:00,debit,719.26,Payment to Medrano S.C.,Entertainment
+a857cb69-5747-432f-9f12-6e10a54fb74d,2024-12-13 23:08:16.285553+00:00,credit,3757.38,Payment to Industrias Osorio y Hernández,Gasoline
+d56d8aa2-de82-4c92-b1b9-dcfacf26f18c,2024-12-17 19:37:15.961599+00:00,debit,4125.58,Payment to Orellana y Regalado e Hijos,Travel
+705ded2d-b4cb-453b-b85b-745f2314a554,2025-03-28 17:20:07.429627+00:00,debit,5282.18,Payment to de la Torre y Yáñez S.C.,Travel
+5c3837b1-c293-4138-984c-9c50b1bc0a20,2024-10-08 17:19:42.570153+00:00,credit,7957.33,"Payment to Meléndez, Longoria y Matos",Healthcare
+c51e8ec1-237b-4ba7-8182-c371677f8241,2024-09-01 06:29:40.477279+00:00,credit,847.68,"Payment to Corporacin Cordero, Rojas y Limón",Entertainment
+d7056cb4-e3e6-464f-a7c0-4e5de5b0dd5e,2025-02-19 04:49:54.616977+00:00,credit,2287.07,Payment to Rangel-Cantú e Hijos,Dining Out
+3dcebdb1-f251-4cd4-a4db-776df4d6efe4,2025-02-20 00:08:26.270971+00:00,debit,2373.12,Payment to de la Torre-Espino y Asociados,Dining Out
+ecbb5b9f-4607-4b4f-aa5c-13579fd245b8,2025-07-14 02:26:37.718383+00:00,credit,973.91,"Payment to Proyectos Lebrón, Ozuna y Acuña",Subscriptions
+f9934aae-bc81-4e21-9d89-5a429196fc65,2024-09-06 06:06:01.163889+00:00,debit,702.93,Payment to Saavedra-Mesa S.A.,Dining Out
+bd2726a3-981b-4ac1-ad42-8e4c1615d5b1,2025-05-10 23:13:21.911538+00:00,credit,761.69,Payment to Ríos e Hijos,Groceries
+e984065c-b648-4719-8c8f-17c3f9eda678,2025-02-21 06:07:04.920597+00:00,debit,4495.49,Payment to Despacho Corral y Esquivel,Other
+20dbc094-3cb2-4b57-98c0-b10558f47abe,2024-12-09 09:56:23.977445+00:00,debit,1196.07,Payment to Industrias Pulido-Huerta,Groceries
+56b28da9-909a-496d-8415-e832af5471f0,2024-08-24 19:20:08.662492+00:00,credit,145.55,Payment to Suárez-Barrientos,Healthcare
+f1b1f6a1-4ae3-4094-ba65-2f21cb9f90aa,2024-09-29 04:37:21.191443+00:00,credit,4781.26,Payment to de la Torre-Palomino S.A.,Healthcare
+c96977d7-f14a-4161-9592-5c9c38cdb17b,2025-01-14 19:49:27.512430+00:00,debit,644.61,Payment to Cotto-Verdugo y Asociados,Groceries
+9fb45d06-967b-44cd-8dab-38d8c1f693bd,2024-10-15 11:25:35.879501+00:00,credit,5027.04,Payment to Proyectos de la Rosa-Villarreal,Travel
+e09bc197-2d4f-44f0-9d36-593272d02064,2025-03-24 23:18:49.169161+00:00,debit,4873.11,Payment to Ponce-Nazario,Subscriptions
+205c8fbe-1092-4bb0-9d04-6fc738dd1346,2024-11-03 06:56:41.363401+00:00,credit,211.41,"Payment to Industrias Toledo, Valles y Báez",Groceries
+5e704b1b-afc8-4e6b-acf6-9577e8490c0c,2025-05-01 20:40:24.986771+00:00,credit,4363.76,Payment to Laboratorios Ordóñez y Salgado,Gasoline
+d659471c-7175-4808-bdcb-670bda4f936f,2025-06-10 21:07:12.367167+00:00,debit,81.98,"Payment to Corporacin Razo, Arreola y Vallejo",Travel
+a50def47-1e06-4c23-a1aa-90822e34a931,2025-03-21 07:26:23.818734+00:00,credit,80.6,"Payment to Grupo Gallegos, Regalado y Téllez",Housing
+d5d608af-5e26-4ff0-a51c-e73647dbf2f2,2024-08-06 14:38:02.524425+00:00,credit,877.11,Payment to Reyna-Menchaca S.A. de C.V.,Groceries
+aaba7fa6-b03b-4c3f-992f-6ff47cd4bce9,2025-02-27 02:53:25.905659+00:00,credit,566.29,Payment to Razo-Cortez S.A. de C.V.,Subscriptions
+37e6a1da-9202-4d4f-9d7a-b4125f133bdb,2025-01-09 22:11:25.357697+00:00,credit,500.46,Payment to Núñez-Lemus,Healthcare
+e2795e46-d4b8-4b5f-a57d-8e93f0cf0558,2025-06-19 23:49:13.889992+00:00,debit,2489.11,"Payment to de la O, Chapa y Caballero",Housing
+48fd1496-cdb6-4b68-8dc1-9c36e88375de,2025-02-05 22:47:30.143724+00:00,debit,4928.7,Payment to Bravo S. R.L. de C.V.,Dining Out
+e22852e5-f01b-4c86-91ec-ae576eb1fb64,2025-03-15 01:23:10.178342+00:00,debit,338.49,"Payment to Benavídez, Cano y Lozano",Education
+7899e147-1896-4857-93b3-36b5ed11cec9,2024-12-10 00:33:55.587462+00:00,debit,145.55,Payment to Grupo Ortiz-Zaragoza,Subscriptions
+e9719b4e-d7b5-4968-9b4b-637703387fe3,2025-05-14 16:20:51.703233+00:00,credit,1997.04,Payment to Guardado-Melgar,Entertainment
+0355a80d-aaa5-4778-85da-974d49bf50ef,2025-01-06 20:44:13.232531+00:00,credit,4556.98,"Payment to Corporacin Rico, Montemayor y Salcedo",Entertainment
+e924ec50-a2b7-401a-8eca-4c33aee1fe77,2025-03-11 02:08:51.842082+00:00,credit,2270.9,Payment to Laboratorios Espinal y Aguilar,Housing
+06d6f903-0282-482c-a38e-d9551eea699d,2025-01-29 11:13:48.300076+00:00,debit,304.69,Payment to Despacho González-Chacón,Other
+f6b2bea1-a4ff-4ceb-8599-8207e8abf617,2024-12-19 15:46:54.732768+00:00,debit,4653.2,Payment to Castro-Ceja,Healthcare
+480b06d4-b191-46d6-81f8-37557cb7da74,2025-05-10 04:08:14.014200+00:00,credit,3514.52,Payment to Flores-Zamora,Housing
+50b98986-b4d5-472e-b4b1-95f56cfa9d84,2024-12-20 10:44:16.752439+00:00,debit,3363.13,Payment to Despacho Solorzano y Solano,Gasoline
+21c42686-fdb6-44f5-9a15-308de2dc99c0,2025-04-18 20:37:08.633097+00:00,credit,6756.96,Payment to Grupo Gonzales-Laureano,Healthcare
+470c7b59-06f3-4df8-9e74-817096536ee4,2024-11-10 07:34:58.377356+00:00,debit,822.9,Payment to Laboratorios Alcaraz y Naranjo,Gasoline
+9f125f08-49f9-4596-9c3e-8ad1bbed0ff1,2024-10-03 09:59:20.001136+00:00,credit,311.34,Payment to Grupo Casillas-Brito,Entertainment
+2dd31782-7653-4562-a5fd-c4421826c201,2025-02-07 14:14:38.719293+00:00,credit,6985.86,"Payment to Proyectos Olivo, Gómez y Gollum",Gasoline
+7d90decc-8099-40c1-842f-49a4e843002e,2025-04-27 06:03:54.168219+00:00,debit,1758.86,Payment to Ballesteros A.C.,Travel
+833a4c19-94c8-4be3-8685-b4557a36a47c,2025-06-08 07:49:16.453697+00:00,credit,1558.49,Payment to Corporacin Segura y Bañuelos,Housing
+b00ce25f-5862-4f31-bbaa-1dbdd3d97723,2025-06-30 00:22:57.312642+00:00,debit,4009.23,Payment to Regalado-Montoya S.C.,Other
+c5328a98-2b74-446f-9d94-01ef2a6ec256,2024-08-11 04:43:41.499563+00:00,credit,2270.22,"Payment to Industrias Valentín, Otero y Toledo",Other
+e95fe1a1-5e9e-4d72-9f14-91dd8b802081,2025-04-16 06:41:54.176997+00:00,debit,555.06,"Payment to Gaytán, Elizondo y Baca",Subscriptions
+803937a5-2dfc-4891-9632-acca1a81f23b,2025-01-08 21:16:34.193412+00:00,debit,710.06,Payment to Adame y Almonte S.A.,Gasoline
+2f068449-29dc-4f3a-a293-b0f245028d4d,2025-04-25 17:08:04.201733+00:00,credit,924.33,Payment to Arguello-Benítez,Healthcare
+c0e55d1c-3dc4-41e2-8204-a24199d9d876,2024-10-30 23:24:51.273308+00:00,debit,173.27,Payment to Club Serrano y Espinosa,Travel
+f3bd0424-ac3f-4998-914e-7022ad2ec71d,2024-12-04 00:23:39.792665+00:00,debit,1406.88,Payment to Grupo Guerrero-Ulibarri,Travel
+e4ab5042-00bd-4f0b-b5f2-89429362c1a1,2025-03-31 10:41:36.341532+00:00,credit,387.8,Payment to Club Velázquez y Trejo,Housing
+0a78b78b-d7a0-48ff-9556-3239266032c2,2025-02-20 12:08:29.219710+00:00,credit,2072.65,Payment to Ibarra-Rojo S.C.,Healthcare
+33a28514-e4eb-4a9a-9160-2aa8c145773f,2024-10-27 04:36:56.402231+00:00,debit,905.3,"Payment to Fuentes, del Río y Peres",Entertainment
+07a8562d-8d99-4b1d-b83f-43629f6ea0f9,2024-10-20 05:27:28.418135+00:00,debit,4831.44,"Payment to Corporacin Pineda, Torres y Posada",Education
+1de01d49-07e1-46d1-b168-d0a3a64eedc1,2025-04-06 16:19:17.797969+00:00,credit,645.61,Payment to Zamudio y Alva A.C.,Housing
+941280b0-a346-40b3-99b1-9ee328b427cd,2025-03-29 12:21:45.548745+00:00,debit,2613.3,Payment to Beltrán S.A.,Subscriptions
+558dce9d-6586-4963-887a-e6bdcccbe728,2024-12-08 22:01:25.948821+00:00,credit,639.46,Payment to Grupo Cavazos y Mata,Groceries
+eb8676a0-2873-499b-8097-269b6ed1f8e2,2025-02-13 05:36:18.275495+00:00,credit,321.94,"Payment to Viera, Villagómez y Cantú",Entertainment
+70d54d21-8d66-4859-a35f-bb9db574d728,2025-06-11 21:44:09.476189+00:00,credit,4014.46,Payment to Pizarro-Alvarado,Dining Out
+eeb8813c-6ff8-4a48-b6db-99ffdaa1485f,2025-02-13 17:27:31.417871+00:00,credit,832.11,"Payment to Esquivel, Barraza y Franco",Travel
+c19716c3-9126-4831-b324-aedad7a39a88,2025-07-26 09:36:02.185442+00:00,debit,4744.56,"Payment to Rosado, Roque y Badillo",Utilities
+2633e6f7-86f9-4788-aea8-d74cd0408921,2025-02-28 17:13:14.600765+00:00,debit,192.52,"Payment to Club Rangel, Frías y Adame",Entertainment
+b7e68099-f07e-40ae-bfb9-a25d753d480d,2025-04-18 16:45:49.924903+00:00,debit,963.72,Payment to Solorio y Toro S.C.,Travel
+ea00cb17-952e-4ac2-b02a-44c346f722cd,2024-09-18 04:06:34.683115+00:00,debit,696.34,Payment to Bernal-López S.C.,Education
+6a33f4ca-862d-4e84-94dd-c768101da264,2024-12-08 00:10:51.628471+00:00,credit,836.15,Payment to Grupo Solorzano y Jaimes,Gasoline
+e3ae934f-73a9-4464-b2e4-2580cd611a5a,2024-09-04 06:34:28.986428+00:00,debit,4049.84,Payment to Proyectos Molina-Negrete,Utilities
+7d400d52-b9cb-4bf1-8438-ca1a4d38b993,2024-12-14 13:33:55.127616+00:00,debit,5130.19,Payment to Club Lucio y Marín,Other
+dd7c1861-88ee-4cab-ab22-048dab256db3,2025-04-30 12:54:37.903919+00:00,credit,622.39,Payment to Grupo Piña y Sauceda,Healthcare
+ca3bc135-f8d2-4d44-afc7-0b762534b05f,2025-03-22 23:24:46.542235+00:00,credit,4007.27,"Payment to Despacho Cantú, Baca y Arenas",Gasoline
+62b5c17d-3387-42f1-864a-83cb4283b5ca,2025-07-13 18:40:38.783447+00:00,debit,6570.67,Payment to Despacho Reséndez y Villegas,Entertainment
+8fce4d7f-3f13-40cc-a7f9-60130088a76c,2024-11-18 03:15:23.604410+00:00,debit,2070.73,Payment to Tello y Amador S. R.L. de C.V.,Other
+8fc77a74-66fd-4180-8377-874b256b6cb0,2025-07-31 14:15:07.566480+00:00,credit,159.38,"Payment to Laboratorios Sierra, Sanches y Paredes",Healthcare
+4f8da1e3-762b-4456-b1a5-0a3881b95441,2024-12-12 08:19:53.887742+00:00,debit,4844.21,Payment to Mata-Canales y Asociados,Housing
+13e96dd3-1e24-42af-9b0b-0337c8763d4c,2024-08-30 15:14:39.745300+00:00,debit,435.32,"Payment to Grupo Medina, Anguiano y Corrales",Healthcare
+be8ad51c-6157-4898-9df7-ce78a5002408,2024-10-26 23:21:00.872056+00:00,debit,3170.62,Payment to Cruz-Saavedra A.C.,Housing
+79afa230-4824-4e5a-a7d5-88b8b7271676,2024-10-30 15:55:20.465652+00:00,debit,1939.74,Payment to Club Riojas y Villalobos,Gasoline
+ac2c1893-c085-4c49-875b-022393e03a45,2025-04-05 09:01:11.726257+00:00,credit,9794.72,Payment to Cintrón y Mondragón A.C.,Dining Out
+41c5f4d8-602e-4bf3-80ec-aa48994717a5,2024-10-24 19:13:03.150384+00:00,debit,3767.32,Payment to Alcala-Peña S.C.,Travel
+a1a7900f-ea45-4444-818d-25fdd87681f5,2025-03-29 23:17:54.938759+00:00,credit,8787.5,Payment to Baca-Molina S.A.,Groceries
+5cf59645-49f6-4dca-a05e-e4eba58c05ec,2025-01-01 17:35:11.828248+00:00,credit,620.0,"Payment to Proyectos Arias, Meza y Farías",Subscriptions
+556d68e0-6d90-4795-bf38-6daa240d1a75,2024-11-11 08:49:08.108902+00:00,credit,117.24,Payment to Ponce-Grijalva S. R.L. de C.V.,Entertainment
+b0debbc6-88d4-402b-8b45-acc1d6214927,2024-10-02 20:43:13.779400+00:00,credit,3155.52,Payment to Grupo Vélez y Castañeda,Healthcare
+081ccd80-8afe-4311-b649-d5f2c1a1ae64,2024-12-03 08:35:20.033090+00:00,debit,2470.28,Payment to Aguilera y Muñoz S.C.,Subscriptions
+20fac832-0276-4f76-9203-d4b0d131ee2c,2025-03-31 03:57:45.933352+00:00,credit,7697.28,Payment to Arredondo S. R.L. de C.V.,Travel
+5db131e7-c53f-4993-82b2-8f2b143c2edc,2025-02-19 21:36:33.634699+00:00,debit,5224.35,Payment to Armas-Robles A.C.,Groceries
+ff85332d-395d-46f4-ba05-7f9c49278fe1,2025-01-19 18:27:12.867102+00:00,credit,419.93,"Payment to Verdugo, Aguilera y Bustamante",Housing
+0631e69a-f4a3-4a54-a88a-de34dbe696c4,2025-06-27 06:08:07.935739+00:00,credit,537.12,Payment to Grupo Macías-Rolón,Dining Out
+61893e76-7a14-40a0-808a-3a2497e5abfd,2024-11-17 19:27:29.997083+00:00,debit,3837.73,Payment to Industrias Reséndez y Casillas,Travel
+85d38363-a548-4499-8fa1-502578ee7b30,2025-07-29 06:30:41.744982+00:00,debit,1126.84,Payment to Lomeli S.A. de C.V.,Housing
+80905028-c882-4aa3-946d-39fe166af7ca,2025-01-17 08:32:20.385417+00:00,credit,2470.26,Payment to Serrano y Roybal S.A.,Travel
+d544dbd1-e762-4c0a-8cdb-65742d27502e,2024-10-26 03:55:56.131544+00:00,credit,802.85,Payment to Olvera-Rivero,Healthcare
+0097366b-7b2c-4f0f-8523-5bd5ffe1f53b,2025-04-01 15:49:23.305376+00:00,debit,75.51,"Payment to Despacho Centeno, Montenegro y Haro",Healthcare
+286562a5-5418-4ad7-854a-6a7719465ffe,2024-09-24 20:43:46.506747+00:00,debit,443.95,Payment to Caraballo S.A.,Gasoline
+705dac78-7582-4624-b16a-d9eef19a9dd8,2025-01-17 08:21:18.251446+00:00,credit,840.53,Payment to Alva-Bañuelos S.C.,Healthcare
+8d5e0789-6105-4f0c-8c57-f4853ba3eb1b,2025-04-09 21:06:18.355477+00:00,credit,783.34,"Payment to Verdugo, Molina y Monroy",Entertainment
+1061cc9f-b5d9-4f9f-89b8-155fd828500b,2025-03-21 01:05:20.910609+00:00,credit,4996.38,Payment to Grupo Cadena-Frías,Entertainment
+22078acc-d301-4451-b8ce-5411443cec43,2024-11-05 02:35:49.996304+00:00,credit,3128.74,"Payment to Corona, Véliz y Cisneros",Gasoline
+45008df9-4cf3-4ff5-addb-44faaf7ec151,2025-03-26 11:32:16.996557+00:00,debit,1988.08,"Payment to Rodarte, Bravo y Toledo",Entertainment
+b4dfec8f-eb5f-42b0-b669-f0de33cea940,2024-09-17 16:59:08.579202+00:00,debit,759.84,"Payment to Carrera, Barraza y Quezada",Subscriptions
+f2746fa0-4dd5-413d-80be-f1e44aa02907,2025-04-18 16:51:58.881563+00:00,credit,865.3,"Payment to Laboratorios Montemayor, Cervántez y Porras",Dining Out
+8e86aa43-42eb-41aa-9380-cd639fce2b0a,2025-08-01 04:12:28.010066+00:00,debit,3359.28,Payment to Zavala y Molina e Hijos,Groceries
+3aeb79b5-4331-42f7-b5d0-69d0458a0d2b,2025-04-12 18:54:36.851261+00:00,credit,3979.8,Payment to Corporacin Toro-Reséndez,Travel
+75a39d38-36fd-43f5-acdd-fb93dc678550,2024-08-09 15:56:58.201401+00:00,debit,2305.55,Payment to Brito y Esquibel S.A. de C.V.,Dining Out
+a9700378-bcd6-4b8a-9f06-44c3a1878cc3,2025-04-12 07:23:12.453714+00:00,credit,94.97,Payment to Club Becerra y de la Garza,Other
+67f70807-8d04-4f6d-a26e-f73fcd3f8a4d,2025-07-09 14:56:45.542109+00:00,credit,281.71,"Payment to Club Gastélum, Robledo y Yáñez",Dining Out
+f9f7a015-40a5-4f1d-83c7-f34eb6048854,2025-06-11 23:12:59.226983+00:00,debit,287.6,Payment to Baeza-Fonseca,Subscriptions
+961ed68e-be4c-44d7-bc23-bbf7b42e7980,2024-11-05 09:12:32.563509+00:00,credit,3758.6,Payment to Córdova-Franco e Hijos,Travel
+a1951653-35d5-4685-a611-7c755fbfb9ca,2024-09-30 12:53:57.200282+00:00,credit,2824.49,"Payment to Serrato, Anguiano y Flores",Education
+49efa7cc-7402-4c5f-be32-945e862d5bd0,2024-11-06 18:54:01.154347+00:00,credit,735.01,Payment to Nieves S.A. de C.V.,Healthcare
+fd5c8ce6-243f-4439-b997-35694059418d,2025-08-01 18:09:27.833439+00:00,credit,3773.43,"Payment to Club Ocasio, Alejandro y Lomeli",Housing
+c186372b-3db0-474e-9b03-f1ae2970d067,2024-11-24 01:49:32.920636+00:00,debit,1467.41,"Payment to Guerra, Gómez y Monroy",Housing
+79850a4e-3baf-46f7-a320-0e04732b0bfd,2024-09-04 20:37:19.749746+00:00,credit,631.31,"Payment to González, Irizarry y Crespo",Housing
+13320f08-81e0-4e0b-bad1-dc33659b5d8b,2025-01-15 08:57:37.076412+00:00,credit,702.23,Payment to Corporacin Ponce y Vallejo,Gasoline
+14c8834b-9837-439f-9723-26076a8c71a6,2025-06-30 11:01:00.970701+00:00,debit,9279.65,"Payment to Carrero, Cruz y Anaya",Education
+11b1f862-cbc1-4f06-85ae-49c73d227b6c,2025-02-09 03:21:24.156637+00:00,credit,966.79,Payment to Proyectos Fonseca-Espino,Entertainment
+efb145b3-e200-454e-839a-ddf6f5341f54,2025-08-03 00:29:39.189364+00:00,debit,2291.9,"Payment to Oquendo, Mireles y Aparicio",Travel
+cac9bddd-1e3d-489e-9567-884f9da33f7b,2025-02-17 23:25:19.537720+00:00,debit,4693.5,"Payment to Proyectos Sáenz, Alarcón y Chapa",Education
+a6f09f6b-9c81-4719-b768-13451f0e939f,2024-10-06 16:53:06.756133+00:00,credit,1498.43,"Payment to Proyectos Pérez, Samaniego y Negrete",Travel
+43b8425b-dbde-468f-9ed5-0de23d89f0ad,2024-09-17 06:57:34.054171+00:00,debit,1679.04,Payment to Chacón-Sotelo e Hijos,Travel
+62f7f01d-e9e4-4828-a0f4-11dfab7cd008,2024-08-08 10:39:12.011044+00:00,debit,450.44,"Payment to Romero, Guzmán y Medina",Dining Out
+08211f69-17ad-4981-99ce-c6ded1f35b39,2024-11-16 06:45:55.195314+00:00,credit,8513.83,Payment to Vanegas y Cervantes S.A.,Utilities
+16b40026-ac84-42ca-9911-57e4b21156f0,2025-01-13 18:22:25.544486+00:00,debit,97.95,Payment to Laboratorios Vera y Verduzco,Gasoline
+fccdf8be-e1d6-4220-afc9-f0a30a11ea2f,2024-08-22 20:32:10.514531+00:00,debit,857.82,Payment to Covarrubias A.C.,Education
+6723be05-1837-4123-8ed4-aec79bf20941,2024-09-24 21:46:52.114604+00:00,credit,129.51,Payment to Pedroza S.C.,Healthcare
+b25dcc36-0544-446a-93a2-197bc356296d,2025-02-11 16:20:11.263789+00:00,credit,621.09,Payment to Industrias Mejía-Vaca,Groceries
+81e7fd2a-7521-4440-8117-a48e7410afb7,2025-02-18 06:03:27.448808+00:00,credit,1645.21,Payment to Gallegos y Ríos A.C.,Gasoline
+d50ca6b0-21fb-4da3-88b1-d7b1abc6b586,2024-10-26 16:16:45.439236+00:00,debit,9019.15,Payment to Laboratorios Amador y Polanco,Travel
+10b4b478-96fb-4531-b15f-2bfc39e72a3e,2024-10-25 08:18:28.846162+00:00,debit,2296.54,Payment to Llamas-Núñez A.C.,Other
+9066d9fb-5c49-4c99-9351-edf39f3130d4,2025-02-19 21:52:45.916548+00:00,debit,1032.21,Payment to Muro-Jaimes S.C.,Entertainment
+77fa02ba-fd61-41f9-ab21-adba8f0646d8,2024-12-30 16:53:27.682857+00:00,debit,4103.98,Payment to Proyectos Carrera-Niño,Subscriptions
+2931abd0-94b6-4943-8389-c5d685f3d113,2024-08-17 08:37:57.468391+00:00,debit,496.42,Payment to Cuellar A.C.,Other
+23831fef-2885-41fe-983f-f447d30a6c51,2024-12-20 11:28:14.905431+00:00,credit,3834.31,"Payment to Laboratorios Guerrero, Razo y Estrada",Dining Out
+6bd7a9e8-0d22-474b-a6ac-87a8c9faa1f1,2025-06-18 20:16:10.681213+00:00,debit,3753.85,Payment to Ocampo-Rivero,Travel
+c593192e-5874-44ee-9fe1-846338df90af,2025-04-24 21:00:18.049840+00:00,credit,956.75,Payment to Guzmán A.C.,Gasoline
+d845f1fe-1d92-4730-b613-22643435607c,2024-08-24 19:23:13.140677+00:00,debit,717.57,Payment to Castellanos-Morales,Other
+2dcc21dc-f9ab-43a9-8771-bd5b2ce3c1af,2025-04-29 21:05:35.649929+00:00,debit,9021.37,Payment to Club Mena-Ceja,Travel
+5389d12a-498c-40ce-892c-0670fdad0d86,2024-10-14 13:18:40.252908+00:00,credit,101.13,Payment to Saavedra-Pineda S.A. de C.V.,Subscriptions
+d4ebae23-9c31-48f3-8291-2f33c4be11a3,2025-02-12 10:59:36.334146+00:00,debit,776.87,Payment to Rendón S. R.L. de C.V.,Housing
+ed94b005-1780-4b56-9f2c-f70718776912,2025-04-14 03:39:45.639323+00:00,debit,8181.34,"Payment to Despacho Chapa, Carrero y Quezada",Dining Out
+86bab92d-9772-4493-8e8b-22a294b2aef2,2024-09-04 05:50:01.545038+00:00,debit,620.94,Payment to Rosado y Moya S.C.,Travel
+062b8889-8036-4415-ae04-4124a57b49e6,2024-09-11 14:38:58.138343+00:00,credit,1655.15,Payment to Mateo S. R.L. de C.V.,Gasoline
+73742da2-1d9d-49b6-87a5-2998d8d0a4e7,2024-10-29 00:10:01.792359+00:00,debit,4772.17,Payment to Rentería y Morales e Hijos,Dining Out
+ee53021c-d834-4d2b-96f5-60a216ec996a,2025-07-10 01:23:31.571870+00:00,credit,9593.31,Payment to Aponte y Patiño S.A.,Other
+efb3537b-a772-4f24-a0ec-073dbb9b5fe9,2024-10-25 16:22:05.539927+00:00,credit,9049.88,"Payment to Castro, de León y Venegas",Other
+183b2875-4b1e-4359-9e56-2d7d8c2f0f37,2025-03-13 04:31:37.058906+00:00,debit,1221.42,"Payment to Olvera, Maya y Sanches",Subscriptions
+b51bfff6-77fd-4ece-bd4c-d415b529e630,2025-03-09 23:29:47.873532+00:00,credit,185.16,"Payment to Laboratorios Olmos, Castillo y Perea",Gasoline
+92121496-cfce-4bc5-8824-b18f8b8ab44e,2025-05-30 06:23:46.722964+00:00,debit,4024.72,Payment to Escalante y Guerra y Asociados,Education
+4e83c6d3-4854-42cf-9c69-eef1d019989e,2025-01-30 15:04:51.469410+00:00,debit,861.26,Payment to Chávez e Hijos,Groceries
+d1faee2d-7d5c-4012-a91f-0d8b513e5d8d,2024-12-14 14:41:52.384679+00:00,credit,317.79,"Payment to Segovia, Regalado y Ulibarri",Other
+578efa46-7011-4904-9e31-1f23f612274e,2025-01-09 18:45:11.765694+00:00,debit,3604.05,Payment to Rolón S.A.,Subscriptions
+49ce4ee9-5044-4ed8-910c-252b26fa6384,2025-08-02 07:00:07.748190+00:00,credit,4882.05,Payment to Laboratorios Apodaca y Quintana,Subscriptions
+3d5fa27f-4f47-41be-90a8-9a28bf5e432c,2024-09-18 13:22:57.143717+00:00,credit,787.47,Payment to Carbajal y Cavazos A.C.,Education
+71f29953-87c8-4857-8a75-16a1c01c5299,2024-12-25 16:04:16.698326+00:00,credit,3236.12,Payment to Tamayo-Guerrero y Asociados,Housing
+1d9d24ad-d986-41d7-a972-19386cd0336a,2025-01-09 03:22:56.646868+00:00,debit,1873.83,Payment to Club Galindo y Quesada,Gasoline
+c09ee6b4-2bf3-4c14-932b-4634c650ad94,2025-03-26 13:33:41.463662+00:00,credit,653.96,Payment to de la Rosa-Laboy,Housing
+230a4f72-c4ef-48ba-9a75-c4dffea7c550,2025-04-24 21:03:06.261692+00:00,credit,2985.43,"Payment to Ponce, Carrera y Leyva",Entertainment
+9e9033d4-69eb-4b0b-98f3-e5311e7852d1,2025-02-07 03:07:58.511986+00:00,debit,500.2,Payment to Preciado-Fonseca A.C.,Dining Out
+69ad928e-fe65-4e5f-9081-12d47fb9e092,2025-04-09 05:12:09.181589+00:00,debit,3640.85,Payment to Colunga S.A. de C.V.,Utilities
+cea6e375-f1ed-4aa5-97b7-70b701a1de63,2025-03-09 00:18:25.351352+00:00,credit,401.89,Payment to Lebrón-Becerra S.C.,Entertainment
+35138886-a0df-4068-8160-91347fb6ffc2,2024-11-24 12:45:03.148116+00:00,debit,1876.41,Payment to Chapa S.C.,Groceries
+eca41532-12f0-4381-8a82-1affd3a4690e,2025-04-05 10:13:34.652252+00:00,credit,2719.02,Payment to Corporacin Bañuelos-Venegas,Subscriptions
+ca9de128-cd45-4596-91be-d9fc765dd696,2025-07-30 15:10:01.885609+00:00,debit,8838.03,"Payment to Almanza, Gaytán y Concepción",Gasoline
+ada2e68b-c468-462a-a598-f80fc8c304fa,2025-06-06 08:45:30.593915+00:00,debit,98.53,Payment to Corporacin Trejo-Quiroz,Education
+23b80c10-4f83-491e-8e60-9b3001fc8b91,2025-03-07 05:56:29.256969+00:00,credit,3531.3,Payment to Laboratorios Collado y Galindo,Healthcare
+d3d3c0c7-45ca-4be7-ba6c-8123475668db,2024-10-05 13:58:12.213289+00:00,debit,7191.56,Payment to Vera-Vásquez,Housing
+38cff583-18e7-4802-acb4-1b2e8e290c75,2024-08-27 05:22:44.193933+00:00,credit,512.05,Payment to Mascareñas-Hernandes A.C.,Entertainment
+b6a587bb-b39b-4528-a96d-18035e7d1f86,2025-01-12 02:06:13.872228+00:00,debit,2006.23,Payment to Industrias Vaca y Leyva,Subscriptions
+12af30be-3db3-44cc-af8b-8bc6845cfad5,2024-08-08 10:25:16.209668+00:00,debit,975.24,Payment to Corporacin Zepeda y Galindo,Entertainment
+03fdea0f-f68e-43ec-a131-49d1197ee581,2024-08-05 07:36:26.281794+00:00,credit,721.73,Payment to Cuellar y Solorzano S.A.,Gasoline
+e265dd89-6cc2-4189-b916-8fa8eb94de12,2025-04-11 02:48:31.548335+00:00,debit,117.69,Payment to Oquendo-Carbajal e Hijos,Subscriptions
+70bebe1a-09aa-4f92-8add-ba08efee4443,2025-04-28 18:29:39.486996+00:00,debit,7972.47,Payment to Zamudio e Hijos,Travel
+489539ca-dce8-4c70-bb11-7ce5847e58f9,2024-11-13 08:29:31.092136+00:00,credit,3963.15,Payment to Rosas-Rendón e Hijos,Other
+fad9c164-1456-44e2-9819-734c07abc296,2025-07-12 22:32:07.123392+00:00,debit,1691.7,Payment to Villalobos-Curiel e Hijos,Utilities
+a3384cd4-4069-4369-a975-ebe9c93dd988,2024-08-22 04:07:13.099538+00:00,credit,90.18,Payment to Ontiveros-Terrazas,Travel
+963aecbb-3675-4b47-a19a-e3bb61f6eb07,2025-05-17 11:29:40.115377+00:00,credit,993.06,Payment to Corporacin Mateo y Tapia,Education
+821e2a94-24e9-47dd-a94b-0056d41138eb,2025-03-27 10:44:03.015212+00:00,credit,793.86,Payment to Tejada-Rivera y Asociados,Gasoline
+6627bd2f-2291-4c22-8a8c-d71316f9fee3,2024-08-26 12:02:31.894839+00:00,debit,99.53,Payment to Laboy y Solorzano e Hijos,Other
+25cf64fb-2713-461a-afad-3a3db3843ac9,2024-11-26 17:41:46.247040+00:00,debit,3980.03,Payment to Corporacin Aranda-Vela,Travel
+0dd56cf7-78b5-4f23-a8db-a00d5abf835b,2025-01-25 01:43:21.376374+00:00,credit,4776.17,"Payment to Corporacin Serrato, Barela y Tejeda",Subscriptions
+41c79398-329b-45bb-be9a-4de4846ee2fc,2025-01-16 08:23:18.065669+00:00,credit,4090.29,Payment to de Jesús-Espino S.A. de C.V.,Healthcare
+c1f19809-7919-48f1-9b7e-02da9b4a34ea,2024-10-13 00:52:13.508747+00:00,debit,78.09,Payment to Laboratorios Martínez-Girón,Dining Out
+80492905-3d99-413a-a2eb-3b57dbe100fa,2024-10-04 22:05:52.179658+00:00,debit,750.12,Payment to Benavides y Asociados,Other
+18217162-2c13-454a-8087-dff4a695567b,2024-10-31 03:00:41.485309+00:00,debit,198.12,Payment to Club Castañeda y Raya,Gasoline
+e1e02a79-afce-44f6-851b-59dc306b927c,2025-08-02 04:43:29.401032+00:00,credit,2608.91,Payment to Murillo-Piña e Hijos,Gasoline
+fae26433-0614-436b-a23a-5916e31397bb,2025-07-06 12:32:05.030328+00:00,credit,1187.21,Payment to Despacho Rojas-Nájera,Subscriptions
+7ab812c0-48d4-4213-a429-e38af196291b,2025-06-01 03:31:12.026989+00:00,credit,3683.66,Payment to Proyectos Vela-Ocasio,Housing
+19354c70-0870-4956-8f5f-51f538f8538c,2024-10-10 07:08:26.645626+00:00,credit,425.19,"Payment to Corporacin Casas, Saldaña y Feliciano",Dining Out
+78071b9c-aa2e-41cc-b0a4-ad97edf622a7,2025-01-21 18:27:44.348223+00:00,debit,957.88,Payment to Club Estrada-Mateo,Subscriptions
+1267b834-4ae5-450f-9c02-fe2c76db9d87,2024-09-24 16:22:24.822929+00:00,credit,1296.54,Payment to Industrias Ballesteros y Arias,Entertainment
+ee0b331c-1704-417f-af40-b803a3c05691,2025-07-24 11:27:50.162350+00:00,debit,793.73,"Payment to Despacho Muñoz, Cedillo y Ceja",Groceries
+13630f5a-dee3-4093-b36f-48099ce2b25c,2025-06-16 09:55:51.417468+00:00,debit,2809.44,Payment to Corporacin Gómez-Barragán,Education
+4737fa81-424d-405a-833a-0d1d2b2c2f4a,2024-12-21 13:21:01.872611+00:00,credit,850.29,"Payment to Corporacin Matos, Benavides y Ruiz",Healthcare
+a0e3bc98-b234-4d7a-991f-69cbbe156465,2024-09-23 13:15:29.500037+00:00,credit,188.13,Payment to Cabrera-Casanova y Asociados,Housing
+16ef1e2c-b293-45da-9c29-9fd2a9a22e3a,2025-07-17 15:34:58.673046+00:00,credit,4964.71,Payment to Despacho Quiroz y Mejía,Gasoline
+e7baf6cc-c70b-451d-998d-41b85949f4b9,2024-12-26 19:20:33.291815+00:00,credit,221.83,Payment to Pedroza y Urías e Hijos,Travel
+2619fe38-2fb9-44df-94b4-5dc6bdeeba87,2025-07-03 14:31:32.243191+00:00,credit,819.35,Payment to Ordóñez-Benavídez S.A. de C.V.,Travel
+880d0af7-b2db-4b08-904b-536d2717da51,2024-08-16 09:47:50.929379+00:00,credit,473.3,Payment to Mendoza S.A. de C.V.,Healthcare
+14a53343-e12a-473c-819e-b4c709be7d99,2025-05-29 05:06:20.195261+00:00,credit,3713.78,Payment to Toro-Naranjo,Housing
+623bd3cc-1c00-47fd-9f18-ac0944d56b43,2024-11-02 13:11:55.410099+00:00,credit,543.74,"Payment to Ocampo, Saiz y de la Rosa",Other
+2d3357d2-f299-475e-8eaa-d4d9489a9279,2024-12-18 14:27:04.934192+00:00,credit,941.6,Payment to Laboratorios Urías y Sauceda,Healthcare
+daceb61c-4edc-4038-b721-e4f77f8d48f6,2024-12-31 05:25:40.145261+00:00,credit,2540.42,Payment to Bañuelos e Hijos,Housing
+dfc52774-6f8b-4ef2-a7a3-25865cf082a8,2025-06-20 17:06:58.233668+00:00,credit,306.58,"Payment to Orozco, Casillas y Aragón",Education
+1fca3be5-001d-48ae-a2ea-81b9ae570932,2024-11-22 00:22:57.728741+00:00,debit,859.7,Payment to Corporacin Fajardo-Rico,Education
+fa1ae0b8-d0f4-4c01-8f9d-eb5eca915cf2,2025-04-10 22:10:58.378184+00:00,debit,2623.61,Payment to Pabón-Durán y Asociados,Healthcare
+c93e7fe6-6b1c-4308-be52-911fb627112e,2025-02-10 17:27:22.733404+00:00,debit,771.74,"Payment to Despacho Maestas, Santana y Colunga",Utilities
+9350fe7e-9383-4650-9d3d-5ce62cc861fb,2025-07-08 04:27:03.461952+00:00,credit,395.62,Payment to Corporacin Valenzuela y Peres,Dining Out
+0385683c-3281-4b22-b24d-6fb9e13001e0,2024-11-23 19:23:35.099844+00:00,credit,2422.83,"Payment to Zavala, Badillo y Velásquez",Entertainment
+c0971172-b55b-4ffc-901c-f8436eaa8bfc,2025-02-26 04:44:27.716604+00:00,credit,9806.8,Payment to Proyectos Alejandro y Loera,Healthcare
+b1e728d3-db6c-4309-a415-59750b0af93d,2024-09-21 04:53:04.463808+00:00,credit,1308.66,Payment to Industrias Saavedra y Montalvo,Utilities
+5165583b-bca9-43b6-b034-ef9212b57992,2025-04-02 04:22:00.962588+00:00,debit,3064.79,"Payment to Despacho García, Zapata y Guardado",Groceries
+4ba197fb-1b30-4821-a4f7-ead217d2f1e8,2025-06-12 13:13:36.398551+00:00,debit,273.57,"Payment to Proyectos Lucero, Medrano y Tirado",Subscriptions
+172b83d2-8449-46b0-b8cd-9b439cd84551,2025-01-15 20:41:39.580144+00:00,credit,970.63,Payment to Lemus S.A. de C.V.,Groceries
+afbce0c9-7bc5-46a7-9aa9-c4c85a68e2e1,2024-08-16 13:42:40.793050+00:00,credit,8064.21,Payment to Patiño S.C.,Healthcare
+edca5a24-ddfb-4e4b-bdc0-8c9e721466c0,2025-07-31 19:06:56.850902+00:00,debit,593.78,Payment to Delgado S. R.L. de C.V.,Education
+dd360fd0-9356-4a03-88f8-e7af2ea2a26f,2025-02-18 20:53:33.500824+00:00,debit,6879.89,Payment to Pichardo S.A. de C.V.,Other
+a63d53af-1e47-4eb1-a41f-a8ca596af3d9,2024-10-11 21:44:09.802041+00:00,credit,732.66,"Payment to Meraz, Orosco y Padrón",Gasoline
+850c689a-7971-4d08-bf12-528f2ebe4b83,2024-09-13 06:08:35.870364+00:00,debit,4513.94,Payment to Benítez-Valenzuela S.C.,Housing
+e1ca534c-442e-4193-aacd-8d377f664d3b,2025-04-06 03:25:53.375338+00:00,debit,705.43,Payment to Gollum A.C.,Subscriptions
+269e5cb8-e655-4d7b-b629-17aece0df1e6,2025-05-19 06:24:50.413642+00:00,credit,75.81,"Payment to Industrias Corona, Padilla y Rojo",Gasoline
+41381da7-b150-44af-bc1b-4ac99992cb8c,2024-12-15 23:50:29.712979+00:00,debit,434.78,Payment to Córdova-Tello,Education
+31160e88-8d33-47fa-859a-222a6fa1c852,2025-04-10 21:50:04.450658+00:00,debit,6372.19,"Payment to Tirado, Barraza y Alemán",Healthcare
+63993c98-2917-4442-b1d4-3deb9bf80f19,2025-04-15 18:59:26.457140+00:00,debit,601.3,Payment to Loera y Asociados,Groceries
+b9040551-a9e2-4bd0-96d0-78bb2a054807,2025-07-17 09:38:05.585267+00:00,credit,902.13,"Payment to Macías, Figueroa y Páez",Other
+700408f7-188b-4927-aa97-771d586aed50,2025-07-09 05:04:45.532117+00:00,debit,706.65,Payment to Valverde y Rentería S.A.,Education
+13bf59a1-08cf-40f5-bc2d-7247ae99011e,2025-04-15 19:51:24.186307+00:00,debit,810.4,Payment to Delgadillo-Galarza,Gasoline
+4b09135c-3bc8-48ca-a0ad-e82035b68073,2024-11-27 21:00:22.638835+00:00,credit,1020.18,Payment to Segovia y Cervántez S.A. de C.V.,Entertainment
+3d481ff8-369d-4d7d-8836-7022f8ebe234,2025-06-11 01:34:55.690440+00:00,credit,3155.39,"Payment to Despacho Rivera, Raya y Robles",Subscriptions
+cb6c479f-f169-450f-bee8-a3018585ff36,2024-12-10 23:27:03.949636+00:00,credit,498.91,Payment to Valenzuela S.A. de C.V.,Utilities
+37a43758-c53a-411f-924f-69e72ff03399,2024-12-27 12:22:51.011329+00:00,debit,2225.98,"Payment to Industrias Canales, Marín y Ocampo",Travel
+994295a9-3219-4320-8c4c-ebc5402da675,2025-07-03 05:01:06.180718+00:00,debit,906.25,"Payment to Anaya, Ceja y Tovar",Groceries
+f9a0487f-4537-4c28-8160-29cbd65b19b8,2025-05-09 06:06:01.352675+00:00,debit,4195.01,Payment to Soliz-Nava S.A.,Healthcare
+4466f5fb-c32f-437e-b5d5-f877f7a1d670,2025-07-02 09:07:26.027982+00:00,credit,1050.12,Payment to Grupo Cruz-Fonseca,Utilities
+0e471122-e379-4e2b-b109-d25e888e3ed5,2025-04-15 14:51:01.643507+00:00,debit,384.02,Payment to Industrias Durán y Barreto,Travel
+4c932949-1600-4ca4-b689-b4a8246f4f8d,2024-11-18 19:54:31.305400+00:00,debit,5258.01,"Payment to Club Pantoja, Casas y Saucedo",Housing
+469cc004-4f58-4dfb-a9e2-ed0460221c78,2025-03-13 11:36:32.049385+00:00,credit,146.76,Payment to Club Rodrígez y Tello,Utilities
+3fdd4535-5eab-4e4e-a029-3cd25bb2c3e0,2024-09-14 20:23:55.220933+00:00,debit,234.35,Payment to Quintana-Baeza S. R.L. de C.V.,Utilities
+200f1b18-554e-4de1-bc72-9bd0565e2eb7,2025-01-21 04:07:40.571961+00:00,credit,504.6,Payment to Sotelo y Preciado S.A.,Housing
+7df0c65d-f70c-4b90-a8c7-c9e3641993d7,2025-06-25 03:19:13.240108+00:00,credit,4199.08,"Payment to Despacho Cedillo, Santillán y Corral",Utilities
+68c71844-263d-4559-864f-e5f80aaa69a5,2024-08-24 10:42:02.491548+00:00,credit,1403.47,Payment to Loera-Arroyo,Groceries
+5db9a9cf-d080-46ae-844a-876d8624f5b6,2025-03-29 15:25:23.337307+00:00,credit,4289.28,Payment to Laboratorios Hidalgo-Solís,Education
+98e36fb5-6659-45f1-affe-f98c0f6d5d9e,2025-04-05 09:41:44.916450+00:00,credit,972.77,"Payment to Laboratorios de la Crúz, Guerrero y Gaytán",Healthcare
+fcc00406-75c9-4554-b579-5cf25ac245ca,2024-12-01 18:51:27.916407+00:00,credit,3485.53,"Payment to Despacho Camacho, Soria y Urbina",Gasoline
+4d26d146-44fa-4ea0-aeab-3817e91e64e1,2024-09-27 15:07:22.928955+00:00,credit,1811.83,Payment to Gaytán y Menéndez A.C.,Gasoline
+a6d30b0c-2dd6-4077-96a7-daeb50594d4d,2024-08-31 22:39:24.057132+00:00,credit,203.33,Payment to Brito S.A.,Dining Out
+909617d7-bfa1-4a08-9fec-984062ffe789,2025-04-23 15:54:10.197090+00:00,debit,695.7,"Payment to Bueno, Arriaga y Polanco",Housing
+f01a3171-f20f-43b8-93b7-8d6f8d9c181d,2024-08-31 01:40:39.462927+00:00,credit,2808.44,Payment to Estrada y Asociados,Housing
+1635fc16-cea1-4658-926e-de65e8ada19a,2024-08-16 10:11:52.144093+00:00,credit,450.17,Payment to Saiz-Bañuelos S.A.,Dining Out
+140e3071-ea6f-4fd6-b63c-bd3738ca620d,2024-10-19 17:34:24.017518+00:00,credit,836.22,Payment to Aguayo-Carrasco S.A. de C.V.,Dining Out
+2561b1e7-7b22-4012-bd7d-330cdd136fa6,2024-08-04 18:05:08.684823+00:00,debit,8069.25,Payment to Saucedo-Sánchez,Dining Out
+f18eff2b-59bb-4adc-a47c-1d14403fe9c9,2025-07-24 05:42:32.417929+00:00,credit,655.36,"Payment to Industrias Gil, Oquendo y Gaitán",Utilities
+9bb97466-adb0-419b-9aff-935e33d42469,2024-10-31 19:38:02.918616+00:00,debit,2673.68,Payment to Corporacin Rodríquez-Crespo,Entertainment
+a921a99f-9f46-4f5f-8ee2-e7c8c64668cd,2024-11-03 02:39:01.965609+00:00,credit,2211.62,Payment to Terán S. R.L. de C.V.,Dining Out
+679dace0-2691-485d-95e2-8576cc8634ac,2024-10-19 12:59:21.285650+00:00,debit,379.34,"Payment to Industrias Piña, Mercado y Corral",Healthcare
+ef4693d1-d9f8-4847-b70a-0d864f4416ae,2025-02-10 02:44:26.503909+00:00,debit,841.78,"Payment to Tijerina, Valverde y Granado",Travel
+656ca4f1-e964-4986-aff3-ca2fb19e4820,2024-11-13 17:37:28.803103+00:00,credit,320.75,"Payment to Martínez, Leyva y Vásquez",Entertainment
+bd36387e-0752-4f3d-aa68-3bb3203e3d73,2025-01-05 04:43:53.072162+00:00,credit,1385.62,"Payment to Tello, Rosario y Flores",Education
+800cd699-301f-4891-afb5-ffc40e34935e,2025-06-18 03:53:42.404967+00:00,debit,4860.45,Payment to Club Díaz y Téllez,Travel
+1d091932-e5d8-4eba-83e4-580be6167502,2024-10-09 19:35:21.110644+00:00,debit,1610.45,Payment to Rivero A.C.,Utilities
+b3fc44dd-088a-4e40-906f-8623a78bcff0,2025-03-14 20:29:29.099608+00:00,credit,886.57,"Payment to Grupo Orozco, Lozada y Alvarez",Other
+1378c0a0-1a27-4095-a2a6-8a16efd10bc7,2024-10-01 22:34:24.644176+00:00,credit,4959.93,Payment to Salcedo-Gamboa,Gasoline
+ff01aa56-72da-49f7-8e10-40a1f986aa41,2025-06-28 13:25:05.089227+00:00,debit,1240.93,"Payment to Saucedo, Venegas y Garrido",Travel
+81234c2b-169e-4db0-b2da-753c900f9960,2025-02-28 19:33:12.316870+00:00,credit,232.93,Payment to Angulo-Fajardo,Utilities
+d25cba4f-f307-45d0-84f6-fe3d2cdbf034,2024-12-27 06:12:11.500067+00:00,debit,291.38,Payment to Laboratorios Zayas-Carmona,Education
+b6b94440-20d5-4080-aa07-a628c87bf4be,2024-08-31 01:30:37.679946+00:00,credit,638.39,Payment to Caraballo y Asociados,Other
+bbbabaed-9be7-48b3-9602-3ca7ce2daf1b,2024-11-11 21:00:03.143329+00:00,debit,829.56,Payment to Despacho de la Crúz-Noriega,Entertainment
+c13ccff1-f940-418d-b91f-15d67e911956,2024-09-10 16:50:56.273078+00:00,debit,607.68,Payment to Valle-Zamora,Groceries
+12d0c87b-b26b-4ca0-8b01-bdba3036488e,2025-05-27 00:23:25.218516+00:00,debit,56.99,Payment to Corporacin Parra-Quintanilla,Other
+7f8001ed-209a-49cd-b1ed-364c746c1df1,2025-03-24 13:22:38.420869+00:00,credit,2880.21,"Payment to Corporacin Fajardo, Valle y Vallejo",Subscriptions
+7b1635e2-23fe-4c32-ae8e-a4d135c6600c,2025-01-27 03:56:53.728890+00:00,credit,826.93,"Payment to Corporacin Ferrer, Armendáriz y Bonilla",Gasoline
+00124712-9306-4d07-9344-540f2e927bcd,2025-07-03 12:08:43.522515+00:00,debit,4232.56,Payment to Palacios-Villarreal,Entertainment
+544bd6ce-3ae6-4492-ad1f-166d316af382,2024-09-27 19:26:13.957426+00:00,credit,471.92,"Payment to Rodríguez, Navarro y Páez",Education
+6363928b-02bf-467c-ad74-cdbd4b5c9e67,2024-09-12 22:20:46.861684+00:00,debit,7238.03,"Payment to Marrero, Alcaraz y Guerrero",Other
+7946860a-45ca-4fdf-b332-7631359d25db,2025-01-12 16:12:59.435278+00:00,debit,322.75,"Payment to Grupo Leal, Corona y de la Rosa",Utilities
+27f92460-f618-4824-bce8-2b83bb8e1ad4,2024-09-15 09:49:31.142401+00:00,credit,841.65,Payment to Saiz y Asociados,Healthcare
+89983490-b502-4121-ae94-d726ecb09249,2025-03-26 05:59:59.373944+00:00,debit,4850.45,"Payment to Crespo, Sánchez y Olivárez",Gasoline
+0b5c1f95-eb25-4ce1-93ad-3b5b07c01d7d,2024-10-13 13:47:52.530704+00:00,debit,4710.9,Payment to Terán-Rendón S.C.,Housing
+d942d9ac-feab-4ae0-8955-8b324acf7f72,2024-11-12 01:54:32.088293+00:00,debit,9285.32,Payment to Despacho Saldivar-Longoria,Groceries
+6ab3ed30-f4c9-4482-a075-949a8b6c3706,2025-04-23 02:03:09.282480+00:00,debit,448.79,"Payment to Club Arguello, Romero y Hernández",Healthcare
+25cfbb5a-d77d-4d73-bf41-56f6a0d6ce76,2024-12-01 01:37:24.453430+00:00,debit,858.24,Payment to Guerra-Cisneros,Subscriptions
+5dea847d-2ab9-4482-866e-5775b869be44,2025-02-14 23:47:26.036838+00:00,debit,7540.63,"Payment to Proyectos Raya, Aguirre y Rosado",Entertainment
+6b95c080-fb0b-4f49-b9bf-24767c21288f,2024-12-23 09:24:32.691193+00:00,debit,362.58,Payment to Zavala y Amador y Asociados,Healthcare
+42e351e5-8da4-4a91-89d4-b5c92650f36d,2024-12-18 07:24:49.461872+00:00,debit,2711.73,Payment to Maestas y Asociados,Healthcare
+bee2a9bd-39c7-4503-896b-e6edac4fc476,2025-05-12 19:00:01.845431+00:00,debit,2624.01,Payment to de la Torre y Montero S.A.,Groceries
+040b2325-5a41-4fe5-838e-3c62f6085e03,2025-05-23 09:01:12.750505+00:00,debit,2038.89,Payment to Laboratorios Acosta y Guerra,Subscriptions
+b4d729bc-076a-43c7-825b-36d28109a4ae,2025-07-24 22:40:04.696650+00:00,credit,274.02,Payment to Industrias Ibarra y Arias,Other
+a6eb662c-4614-4832-b009-9a29bafc5800,2025-01-25 17:42:03.709614+00:00,debit,1272.63,"Payment to Amaya, Jimínez y Soria",Dining Out
+78ab2e31-6a72-4c54-89b4-d9dd89abe780,2024-12-20 09:38:08.402083+00:00,debit,4526.55,Payment to Lomeli y Viera S.A. de C.V.,Groceries
+91c82eef-b02b-44ac-95ff-9a4e1eded530,2025-03-21 18:19:34.179274+00:00,credit,765.3,Payment to Maldonado y Montemayor e Hijos,Groceries
+6e5105ba-bd49-412e-875e-3f85791e05ef,2025-02-09 19:14:45.606271+00:00,debit,251.29,Payment to Laboratorios Rincón y Cintrón,Subscriptions
+d03069bc-0418-471b-b426-b363ea4e4bca,2025-07-25 06:28:33.031877+00:00,debit,606.07,Payment to Sepúlveda-Cardona A.C.,Groceries
+0efd079e-fe8e-423f-b7e9-55ecfe732f32,2024-12-14 08:44:44.663840+00:00,debit,1780.65,Payment to Industrias Núñez-Rael,Travel
+ee0a5447-4bc8-45fe-8659-5b47a3c86f9a,2025-02-28 00:21:27.945322+00:00,debit,280.72,Payment to Maestas-Orozco S. R.L. de C.V.,Gasoline
+71530636-c524-48ab-a973-a5228abc59cd,2025-01-10 09:56:28.914472+00:00,debit,466.44,Payment to Despacho Cavazos y Varela,Subscriptions
+c63ee7c3-6db0-4fa4-a898-814eda1d9bef,2025-02-08 04:12:27.605233+00:00,debit,8527.75,Payment to Santacruz-Quintero,Entertainment
+20d3b411-0d18-4b13-b645-b8607684765a,2025-06-20 06:51:09.692254+00:00,debit,5493.06,Payment to Despacho Bustamante y Villa,Utilities
+54c51b9a-349f-484c-852f-45df4d71334d,2025-06-20 15:18:38.614783+00:00,debit,4231.61,Payment to Corporacin Rojas-Rolón,Housing
+5c6fdd1c-e998-4d58-83f1-25aed439a847,2024-11-27 23:51:05.124934+00:00,debit,3078.09,Payment to Meraz-Delgado S.A.,Housing
+6c0645ae-a2a6-4ab7-91a1-5754b60ff4aa,2025-02-09 16:20:53.278868+00:00,debit,205.44,"Payment to Nava, Ávila y Jaramillo",Utilities
+2f534712-634c-4c84-8673-cd0950522455,2025-01-25 06:29:00.798511+00:00,debit,345.09,Payment to Industrias Segura-Olivo,Housing
+5e1f7638-d0f1-4445-99cb-a432894e2af4,2025-01-10 19:09:27.642432+00:00,debit,282.96,Payment to Mena y Asociados,Travel
+9414d3c7-71ac-49ed-b9f3-15daef52c1c9,2024-08-07 03:54:33.073432+00:00,debit,4019.76,"Payment to Industrias Canales, Escalante y Guevara",Entertainment
+15fac4fc-bd38-49c8-8c75-b5363769b5a1,2025-05-12 20:36:36.241693+00:00,credit,3749.4,Payment to Santiago-Cisneros S.A.,Healthcare
+21d38090-e754-4075-9fa4-e7dbd3f62ab3,2025-06-21 15:13:05.255753+00:00,credit,4988.74,Payment to Club Manzanares y Botello,Dining Out
+06092e64-6acc-44a9-b3ac-8a3061d5333d,2024-12-17 14:44:05.358745+00:00,debit,2398.12,Payment to Aguayo y Villanueva S.A.,Healthcare
+e8f4e09f-5c62-4e69-b492-9c42c5923d44,2025-03-20 00:41:37.439711+00:00,credit,3254.85,Payment to Rodarte-Bueno y Asociados,Groceries
+b3ba90ca-4224-454d-bffa-9587a81cb77a,2025-03-20 07:16:46.097888+00:00,debit,4816.64,Payment to Otero-Villagómez,Groceries
+5afc74a7-f5a7-4855-be5c-5c81cc846026,2024-09-28 14:03:47.060277+00:00,credit,2170.0,Payment to Hurtado-Menchaca y Asociados,Other
+e75b7d05-8d44-4f68-a5ad-e571efe95440,2025-05-27 19:41:39.165741+00:00,credit,3727.59,Payment to Gastélum y Urbina y Asociados,Gasoline
+25c4e2cf-e7e9-4851-8812-8eae088d5a90,2025-01-12 01:26:21.381588+00:00,credit,4402.93,Payment to Sierra y González A.C.,Other
+6493aaa3-caf7-40d5-97e5-09afa54433e7,2024-08-20 16:11:09.370920+00:00,credit,5620.73,Payment to Barajas-Cornejo,Groceries
+a0affef2-9369-4a8c-8f8d-4fe9c76fb056,2025-07-19 14:55:11.747143+00:00,debit,936.33,"Payment to Grupo Arias, Zapata y Hurtado",Dining Out
+cd4d7ea7-9eab-4784-9dec-e0146cade627,2025-01-15 14:58:53.187728+00:00,credit,494.22,Payment to Lozada y Cervántez y Asociados,Housing
+d5972938-2e63-4d3e-9a61-08cf1baf3fa8,2024-10-22 11:23:54.781226+00:00,debit,335.8,"Payment to Club Espinosa, Mota y de la Torre",Dining Out
+f1046cbd-85de-4c17-8498-a61caa40458f,2024-09-06 05:43:02.775949+00:00,debit,780.36,Payment to Rivas y de la O e Hijos,Utilities
+b0bccc58-9750-4c40-a5c6-0fa5b6dcf7ba,2025-05-05 09:24:05.705021+00:00,debit,301.81,Payment to Despacho de la Torre y Trejo,Other
+09c4ebeb-7368-4406-8a6b-8aa0f6d90b38,2025-02-21 17:06:41.562927+00:00,credit,3350.66,"Payment to Grupo Ávila, Estrada y Valentín",Gasoline
+c97aebe1-5a5f-4785-a748-987ba53e447d,2024-11-30 04:07:40.668192+00:00,debit,9588.63,Payment to Saldaña-Echeverría S.C.,Subscriptions
+3a8c4017-8a7b-4f77-94fe-ebdea41c18f7,2024-11-05 13:28:12.686096+00:00,debit,269.42,"Payment to Mota, Cornejo y Oquendo",Groceries
+b290ddfa-5ccf-47a7-8178-0462074a7ee1,2024-08-10 15:06:49.987387+00:00,debit,327.61,"Payment to Barreto, Mateo y Luna",Dining Out
+1ce7e1c4-5627-4e80-9ab2-c0dd99bb1222,2025-02-24 22:13:07.714648+00:00,debit,2588.68,Payment to Sepúlveda-Bétancourt,Utilities
+b38dd28e-cb35-4e8f-97a2-e42211a2c9ee,2025-03-11 20:29:41.476507+00:00,credit,777.3,Payment to Aguilera-Aguirre S. R.L. de C.V.,Healthcare
+d5896691-5f5e-42c6-af92-4f3faae2dcad,2024-10-19 22:00:49.892483+00:00,credit,668.69,Payment to Industrias Lerma y Oquendo,Travel
+25c3ddb2-9465-4ccb-a764-a3a64fb8a0da,2024-12-24 21:08:14.102409+00:00,debit,266.34,Payment to Rascón-Delgado S.A.,Travel
+ef9275a4-1f31-40b9-bed9-55f561e2eb0e,2025-01-17 11:07:49.033332+00:00,credit,2936.34,"Payment to Grupo Bernal, Mateo y Lebrón",Entertainment
+e2f45d8e-03a5-4806-821e-ba35d754bb4c,2025-03-11 02:04:20.424692+00:00,credit,693.62,Payment to Trujillo y Solano A.C.,Dining Out
+48f4c810-1a39-48e8-84dc-4822353e4c4b,2025-04-06 20:29:35.881970+00:00,debit,1857.71,Payment to Industrias Patiño y Cabán,Gasoline
+ce0400ff-a6bb-4570-966f-a2d208dcbec3,2025-01-15 09:23:01.504069+00:00,credit,3363.25,Payment to Trejo y Asociados,Housing
+edd9dc82-b268-43bf-99b3-0b760333f423,2024-08-24 04:38:44.539794+00:00,debit,155.91,Payment to Pacheco y Nava y Asociados,Dining Out
+1feeecab-c4ed-4eb0-81af-4fab3cc6cef5,2025-01-16 08:30:05.542159+00:00,credit,785.2,"Payment to Grupo del Valle, Menéndez y Gil",Education
+cc4baeaa-6693-4d7c-943e-b150c1d001cb,2024-11-08 18:01:54.536542+00:00,debit,2711.66,Payment to Tamayo S.A.,Utilities
+5725c69f-a74f-4c8b-b1cf-7b0854e019b1,2025-02-28 04:56:56.086048+00:00,debit,2903.66,Payment to Valenzuela-Arreola,Housing
+c298d58d-6e8d-45d5-acd5-bbc04979fe9f,2024-12-06 19:29:23.707121+00:00,debit,712.83,Payment to Santiago-Arreola e Hijos,Subscriptions
+8953d1b2-bc39-44e4-8fd1-ab38933b10f4,2025-01-23 15:41:24.739924+00:00,credit,1870.77,Payment to Marroquín y Casárez y Asociados,Travel
+2d643c1a-4f3c-4636-b18a-f4e8bf5ceeb8,2024-11-11 00:56:36.014374+00:00,debit,381.0,Payment to del Valle-Robledo,Education
+80d1a43f-0681-42ec-bad6-6a9b500e1731,2025-07-24 06:52:34.129462+00:00,credit,159.18,Payment to Industrias Escalante-Medina,Subscriptions
+dfa0420e-f9df-4c8c-a09d-ecc3a0256263,2025-05-10 04:11:10.926349+00:00,debit,3338.93,Payment to Briones y Elizondo A.C.,Travel
+7ec95028-d9d2-43f8-bd8b-40fec7f03526,2025-03-28 15:41:14.568764+00:00,debit,6019.5,Payment to Montez A.C.,Subscriptions
+c4f51c12-92f9-4e62-8ed0-54e15dbd932a,2025-05-28 10:48:26.555908+00:00,credit,499.49,Payment to Laboratorios Franco y Macías,Gasoline
+d0840379-c0d3-4e56-81ae-28cb80bac43d,2025-02-10 13:15:32.188887+00:00,debit,1655.45,"Payment to Alcaraz, Ávalos y Almonte",Housing
+f15f4090-93de-4e38-9fd3-0962fb399824,2025-05-24 19:54:27.285146+00:00,debit,434.61,Payment to Garay y Malave S.A.,Dining Out
+b917b82d-7220-45e0-9a20-fd5803d1b259,2025-03-15 07:34:04.016134+00:00,debit,3638.08,Payment to Laboratorios Rivero-Ozuna,Utilities
+cd57bade-683f-414b-ac3c-adf69e2d3a17,2025-06-07 06:52:34.316894+00:00,credit,1986.33,Payment to León-Ávalos e Hijos,Groceries
+fe558f91-adf7-4f03-b403-f2ea9c9d8e55,2025-01-16 07:51:27.730797+00:00,debit,353.31,Payment to Quintana y Barrera y Asociados,Entertainment
+c7b6fd35-56de-4020-9376-7c5773c708ce,2025-04-30 07:38:59.721680+00:00,credit,4819.56,Payment to Laboratorios Badillo y Orta,Healthcare
+e5b0d261-fbcb-4b2f-8e9a-29d031da248c,2025-04-15 12:17:32.723571+00:00,debit,994.66,Payment to Proyectos Monroy-Barreto,Healthcare
+66f5020d-0d63-47b5-8dba-2ea04e152650,2025-07-14 05:41:18.867741+00:00,debit,256.07,"Payment to Mascareñas, Rentería y Regalado",Education
+b2116dbb-3cf0-46d9-8cc9-3a456b465412,2025-02-24 07:37:03.541546+00:00,debit,455.05,Payment to Despacho Molina-Riojas,Groceries
+36054632-b3af-4110-bae8-0283f063405f,2025-01-31 01:03:00.524944+00:00,credit,1042.59,Payment to Baeza y Alba S.C.,Other
+a21257ca-1cf4-4550-9e14-362f5102978a,2024-10-27 19:05:01.471918+00:00,debit,2055.68,Payment to Proyectos Roque-Guajardo,Healthcare
+75a7f2a0-6f3a-4b31-93f2-b08333a55fcc,2024-11-23 15:12:16.342464+00:00,credit,458.58,Payment to Corporacin Alonzo-Echeverría,Housing
+9a6993e9-ea3d-4bc8-8bdf-405cab9949fc,2025-03-05 22:35:28.235089+00:00,debit,1405.63,Payment to Club Escobar-Ontiveros,Education
+b88614ce-7118-49aa-9acf-19661cdb1004,2024-09-13 03:19:29.513576+00:00,credit,4387.8,Payment to Calvillo y Jaime y Asociados,Entertainment
+b69a358a-dfcc-4564-b74a-86a4166550f3,2025-07-03 06:26:14.813586+00:00,credit,3537.86,Payment to Laboratorios Gonzales-Espinosa,Education
+b2d74925-6c06-4479-995f-6d38cbdc3ea0,2024-12-06 04:32:35.820234+00:00,credit,4038.5,Payment to del Río-Lebrón,Entertainment
+9df7a273-16bd-4246-b25b-06b971d5f280,2025-02-23 06:06:40.987286+00:00,debit,760.51,Payment to Henríquez-Suárez S. R.L. de C.V.,Groceries
+39f18093-199c-4a01-ac00-1aca82a506b6,2024-10-30 09:02:01.921346+00:00,debit,898.47,Payment to Proyectos Mascareñas y Bravo,Entertainment
+5482a358-d36e-4675-b3f4-b6bcd03c42aa,2024-12-03 00:07:09.181623+00:00,credit,804.54,Payment to Hidalgo y Hernández S.C.,Gasoline
+4f1eec3d-b314-48a5-bf3e-6801080d2edf,2024-10-26 16:37:31.990833+00:00,credit,433.05,Payment to Grupo Ferrer-Colón,Housing
+3b082ec6-994f-488b-9452-a5ab61ad94ff,2025-07-06 16:46:44.947661+00:00,credit,3961.15,Payment to Coronado y de la O S.A.,Groceries
+a80ecf4b-99d2-4147-bfd4-3dfd748fcad0,2025-06-07 02:03:14.599791+00:00,debit,713.51,Payment to Despacho Rojo y Mireles,Dining Out
+921400f8-45a6-40d3-8ad5-94e747c75995,2025-07-29 05:11:58.859300+00:00,debit,4226.22,Payment to Cruz-Valenzuela,Gasoline
+318c4adf-8aa4-4c08-b901-66851ca8f049,2024-11-19 21:45:00.250055+00:00,debit,4381.82,"Payment to Grupo Valles, Carmona y Carbajal",Subscriptions
+7e6809d2-5959-4631-9d72-51ebfe44830c,2025-02-01 04:59:43.104190+00:00,debit,4438.02,"Payment to Grupo Valdés, Segovia y Carrero",Gasoline
+d8be5bb4-2e42-4e39-a5fc-128b505e3c75,2024-12-27 18:23:49.785980+00:00,debit,7926.37,"Payment to Griego, Montalvo y Rodarte",Entertainment
+432ea26d-ba00-4658-9d74-bd609fd23e63,2025-05-29 13:47:28.820191+00:00,debit,826.14,Payment to Corporacin Armas-Cabán,Gasoline
+9ee23f50-520d-4923-b2f7-9786d9412289,2025-06-23 04:39:41.397490+00:00,debit,1064.41,"Payment to Gaytán, Almonte y Bahena",Utilities
+218662cd-0925-447f-87de-070460a8ea5c,2025-03-27 22:10:09.557923+00:00,credit,1049.52,Payment to Madrigal-León,Subscriptions
+084129d8-cde4-46b6-80c9-2cf016699eec,2025-03-06 11:45:10.318345+00:00,credit,216.07,Payment to Razo-Baca S. R.L. de C.V.,Housing
+7031d8f2-b411-4604-949f-8f2572dc8720,2024-11-04 10:17:27.165023+00:00,credit,2043.54,"Payment to Grupo Badillo, Gollum y Gamez",Utilities
+0eadfb95-d3d3-41d8-8824-f359050d2840,2025-01-04 21:37:23.640199+00:00,credit,735.12,Payment to Corporacin Villanueva-Farías,Entertainment
+e946669d-4d64-41ac-8825-27e729bb4058,2024-08-18 09:52:02.105314+00:00,debit,489.77,Payment to Vélez y Venegas S.C.,Groceries
+bbfdc2f3-d5d6-4e89-9929-e4a16c93540d,2025-02-21 04:31:34.079691+00:00,debit,372.9,Payment to Despacho Mena-Lemus,Travel
+eec168b6-507a-497e-9498-4cb2d76f84f4,2025-05-09 13:27:01.613345+00:00,credit,3280.45,Payment to Club Arroyo-de la O,Dining Out
+d904dab8-6b98-484d-9a22-16a5a9f31b0e,2024-08-22 01:49:55.569460+00:00,credit,907.6,Payment to Casanova-Pedraza,Utilities
+03b914ed-6b90-48c9-9b1d-86ef12022694,2024-11-30 18:04:10.399191+00:00,credit,3859.24,"Payment to Despacho Irizarry, Olivares y Barreto",Dining Out
+604ca988-0087-40e2-9586-f728a467e492,2025-01-25 07:00:19.795232+00:00,credit,3177.18,"Payment to Valdivia, Villa y Macías",Utilities
+fe5b3a92-bb72-4623-9250-10089ccf56ea,2024-09-01 05:39:08.173766+00:00,credit,209.62,Payment to Gaitán-Crespo,Utilities
+f7c39391-f232-4742-8ea6-b1f9bfc379d1,2025-06-10 13:44:23.176839+00:00,credit,537.39,Payment to Ledesma S. R.L. de C.V.,Travel
+7ad7ec99-d450-4a34-bb74-bb2ee70f9091,2024-10-12 07:54:53.367320+00:00,credit,3899.49,"Payment to Fernández, Pizarro y Bustamante",Subscriptions
+0475c73b-44a4-43cf-9b41-d712a1ee3a1a,2025-04-14 17:04:54.884220+00:00,debit,3623.78,Payment to Granados-Valles A.C.,Dining Out
+804d79d1-d32b-4774-9c37-b3cde7889469,2025-07-12 19:29:59.126060+00:00,debit,9676.53,"Payment to Laboratorios Narváez, de la Crúz y López",Gasoline
+48fa418e-d053-4d0c-bc9c-928f2a4d1f63,2024-11-02 17:26:39.364692+00:00,credit,8966.24,Payment to Urrutia-Rivero S. R.L. de C.V.,Utilities
+0e4369aa-e91c-4637-9412-c6f2e05b5fa8,2025-04-07 01:20:38.549352+00:00,debit,299.44,"Payment to Dávila, Leiva y Gaytán",Housing
+e927a661-29cb-4e43-85f7-39572815759e,2025-01-09 01:23:51.305126+00:00,credit,629.49,Payment to Castañeda S. R.L. de C.V.,Travel
+2ccd0f00-09c0-4831-a80a-f600766bf1c7,2025-05-18 06:44:29.753537+00:00,debit,922.05,"Payment to Solano, del Río y Sarabia",Other
+63cc7598-cf89-4b18-b52b-459c5b076315,2025-03-30 20:22:27.730431+00:00,credit,446.59,Payment to Olvera-Cadena,Other
+93948938-be48-46fc-9905-ba25ba804a38,2025-01-07 01:35:59.375789+00:00,debit,440.65,Payment to Cornejo-Lemus,Subscriptions
+4630ab2a-b752-4576-9561-2e7dabd80230,2024-12-12 02:52:19.215881+00:00,debit,1499.05,Payment to Grupo Arreola y Batista,Dining Out
+a824ce58-eb74-4fc2-9f20-a845affd1bc7,2025-07-24 08:01:09.759878+00:00,debit,267.24,Payment to Carrillo-Reyna,Utilities
+c16a9087-fda9-4fd5-8ec2-743e3cefe709,2024-12-16 23:12:58.262284+00:00,credit,674.61,"Payment to Peres, Arguello y de la Crúz",Travel
+9bfe78a9-c6aa-46e8-8047-5e718549e1fe,2025-06-02 14:27:35.054683+00:00,debit,794.53,Payment to Robles-Roque,Subscriptions
+31bae4ef-eca0-4046-bc5a-c8ea39e0ba54,2025-04-15 10:58:00.029556+00:00,debit,2538.17,Payment to Anguiano A.C.,Gasoline
+22164f31-9f4d-4fb7-afb3-b5b1c8be8085,2025-01-16 02:39:12.023371+00:00,debit,451.53,Payment to Corporacin Colunga y Barragán,Groceries
+64fe5011-f25a-425a-a2d3-26d7261470b5,2024-09-17 14:32:24.309067+00:00,credit,5424.03,Payment to Rojo-Alvarez,Travel
+4e0b3f4f-5350-4e28-a329-96e96c78e12f,2024-09-11 16:18:13.366659+00:00,credit,7186.29,Payment to Garica S.A.,Gasoline
+4578d755-b4e5-4391-a4ce-c53fdcc3c029,2025-04-09 06:34:01.128443+00:00,credit,702.46,Payment to Peralta S.A. de C.V.,Entertainment
+be7e915b-bd56-4bdb-b893-bdb49193a7c2,2025-03-05 05:03:08.453103+00:00,credit,236.9,Payment to Trejo-Duarte,Education
+d8b85d81-3565-4c2a-b5cd-858eae0cd451,2024-09-24 21:13:48.543180+00:00,credit,248.67,Payment to Rubio-Flores A.C.,Travel
+7dde2864-0daf-4390-9212-f7b9b4faf498,2025-07-01 10:54:10.749206+00:00,debit,124.12,Payment to Segura e Hijos,Subscriptions
+75997e4f-d926-44dd-8d8d-d31b94c42723,2024-11-29 06:34:00.600704+00:00,credit,2151.57,Payment to Cisneros S.C.,Subscriptions
+fde1251f-2344-4d5b-9f42-27b2fff92be3,2025-01-05 13:15:33.187870+00:00,credit,212.47,Payment to Industrias Bernal-Romero,Dining Out
+17d21367-806a-45b5-b640-57639c36e824,2025-02-24 02:05:41.856700+00:00,credit,192.67,"Payment to Viera, Corral y Abreu",Groceries
+f7f4c25f-24df-49f5-9ea6-02506b48df43,2024-08-14 03:10:07.119722+00:00,credit,3046.44,Payment to Colón-Garay,Subscriptions
+243cc008-a865-44e7-83bd-f769c1e589af,2025-05-23 00:47:04.401769+00:00,credit,9171.6,Payment to Industrias Marrero-Fonseca,Groceries
+efad687c-a3ae-460a-8270-8ba7142e3a06,2024-10-04 03:51:44.989098+00:00,debit,443.81,"Payment to Miranda, Carmona y Rodríguez",Healthcare
+6e1bc5bb-c876-40a1-8149-7fa540e35bce,2025-03-25 05:21:03.339894+00:00,credit,1932.57,Payment to Palomino S.A.,Other
+0468289b-4077-42a2-93fa-7d82009b70a4,2025-07-16 11:12:34.129111+00:00,debit,2359.12,"Payment to Club Laboy, Pacheco y Cabrera",Housing
+3c3e4a66-bc17-4f3f-83dd-a3e3296d625b,2025-04-08 19:49:50.911073+00:00,credit,271.05,Payment to Corporacin Saldivar-Véliz,Gasoline
+4d3f87f8-7c4b-4f1d-8520-0756c6ac8ffc,2025-01-05 11:53:56.577063+00:00,credit,858.7,Payment to Club Rentería y Leal,Entertainment
+e65dea0e-04d4-420b-85f7-240b0413261a,2024-09-29 02:27:23.745578+00:00,debit,9288.45,Payment to Industrias Centeno y Escobar,Healthcare
+673895c0-2063-438d-8143-c1f22a787424,2024-09-07 04:16:20.241553+00:00,debit,356.75,"Payment to Pabón, Jurado y Serrano",Dining Out
+24aa02a2-83cd-48de-bc74-c9adc623f11f,2025-05-13 19:30:29.358711+00:00,debit,4663.59,Payment to Corporacin Cotto-de la O,Groceries
+3d328fd0-a29b-4db3-b35c-a4c185d0db32,2025-06-28 06:57:33.566572+00:00,credit,724.76,Payment to Alvarado-Alemán,Utilities
+a2c85f84-4c32-47a8-b78b-16c2aa6042ff,2025-06-12 03:53:25.024839+00:00,debit,1219.6,Payment to Grupo Malave-Dueñas,Education
+8cdc26ec-779a-4429-8e89-0ec6377eb165,2024-11-23 17:49:49.564725+00:00,credit,89.15,Payment to Laboratorios Granado-Orosco,Utilities
+a30a45e5-1dd1-41da-89fe-71e455152532,2025-01-20 21:57:01.833308+00:00,credit,1401.84,Payment to Reséndez S.A.,Travel
+c5b1f1bd-c4f0-4305-801f-e30bc6fd483d,2025-07-07 13:19:44.412424+00:00,debit,496.9,Payment to Despacho Madrigal y Cardona,Dining Out
+c58c423b-462a-4c7f-888c-7d32bd28fce5,2025-04-21 14:30:49.541107+00:00,debit,2108.87,Payment to Tamez y Patiño S.A.,Education
+782cb72f-f17f-4efa-bc50-6d0bd4a6a14f,2025-03-06 17:14:48.550158+00:00,debit,711.63,Payment to Despacho Alvarez-Tejeda,Gasoline
+f33ed43a-5ed3-4255-8678-d173e4db948c,2025-06-02 16:46:59.685701+00:00,credit,992.85,Payment to Grupo Alvarez y Olivas,Gasoline
+9f6a5182-30fb-4bd3-ad4c-d6a0a95683ed,2025-05-07 08:16:12.019783+00:00,credit,747.29,"Payment to Club Aponte, López y Malave",Gasoline
+2465d76e-7edb-4574-83db-c3c2850c052e,2025-07-19 09:27:26.018385+00:00,credit,4222.39,Payment to Santillán y Sandoval S.A. de C.V.,Groceries
+36ab5457-9250-4c7a-93dd-ab51fd6e0fe8,2024-11-10 12:29:45.797492+00:00,credit,4764.77,Payment to Laboratorios Acosta y Patiño,Utilities
+314a6911-f80f-41b2-8867-db22f39f284f,2024-11-29 11:15:58.796511+00:00,debit,496.49,"Payment to Club Cardenas, Navarrete y Hernández",Other
+153f5e9e-fb9f-4f28-976c-7fe43c6068f8,2025-03-27 20:04:37.242504+00:00,credit,4238.49,Payment to Laboratorios Porras-Meléndez,Travel
+f36e8753-ad45-4619-8417-838bd9fac0ce,2024-10-18 07:18:41.699821+00:00,debit,616.02,Payment to Laboratorios Abrego-Meléndez,Gasoline
+96b07233-4578-494c-a141-ab816da05dac,2025-04-24 14:22:33.936080+00:00,credit,4668.31,Payment to Toledo-Duarte S. R.L. de C.V.,Housing
+bd613da2-062d-41a9-a1db-2c09efadec19,2024-09-02 08:16:23.198402+00:00,debit,4029.37,"Payment to Laboratorios Nieves, Trejo y Jaimes",Groceries
+0fd70f16-be70-4af2-8b78-1e79eafdf01a,2025-04-06 11:02:02.185287+00:00,debit,908.67,Payment to Despacho Urbina y Villareal,Other
+7086565e-ac73-429c-add5-7a5f472adf15,2024-12-10 07:30:45.368541+00:00,debit,2563.62,"Payment to Proyectos Carbajal, Quintanilla y Galván",Travel
+b4e72dc8-dac4-4a8b-9670-59907754e12b,2024-09-10 18:50:58.868883+00:00,debit,2608.36,Payment to Industrias Garibay y Olivares,Entertainment
+4e9cd16b-5d53-4e0c-ae3e-185f63c04146,2025-04-08 15:25:43.738893+00:00,debit,547.45,"Payment to Preciado, Negrón y Aranda",Dining Out
+acad3ee1-09e1-4242-a456-74c785e854d9,2025-02-27 18:18:05.900860+00:00,debit,54.04,Payment to Sauceda S. R.L. de C.V.,Healthcare
+0b7746ec-2d7d-4c72-a85b-43002f644421,2024-11-14 10:20:29.044636+00:00,credit,4064.21,Payment to Tovar-Castellanos S.A. de C.V.,Travel
+8b1d6b84-f407-4829-a833-a218f07350fb,2024-08-29 20:18:27.169859+00:00,debit,373.91,Payment to Ojeda-Paz S. R.L. de C.V.,Utilities
+172d940d-2e99-4134-b9e6-98da0d7516a5,2025-02-18 01:36:00.048357+00:00,credit,582.97,Payment to Bueno-Zepeda,Gasoline
+a3ad6288-4c5e-467c-b339-e47f5f82bd00,2024-09-14 04:52:57.820210+00:00,debit,1029.75,"Payment to Despacho Villarreal, Menchaca y Rangel",Housing
+8b98defa-6310-4883-8b14-f39166f63582,2024-12-08 03:47:02.713898+00:00,credit,321.08,Payment to Corral-Toledo,Subscriptions
+acff3d11-6df1-44d2-9c0a-34e3df7930fb,2025-03-12 01:45:08.170685+00:00,credit,2735.62,Payment to Núñez y Carvajal y Asociados,Dining Out
+f045fe50-a3c5-42ba-b345-5624b53f1bdf,2024-12-30 03:57:50.401250+00:00,debit,4419.32,Payment to Báez S.C.,Utilities
+42509e37-0abc-4fbc-a8d8-7eb44ad3c629,2024-08-14 17:31:35.489575+00:00,debit,978.23,Payment to Laboratorios Zavala y Vera,Dining Out
+d2e43831-ef9d-403b-b72e-e5a013ccc3eb,2024-08-30 19:14:24.180428+00:00,credit,3252.4,Payment to Treviño-Nazario,Other
+fde2c687-7591-4535-a596-06b197e9f23a,2024-12-14 15:59:07.663370+00:00,debit,177.6,Payment to Barajas y Montoya A.C.,Groceries
+6d4ebf77-306f-4af1-a7b9-252fd9f5d0c4,2024-10-01 04:59:42.982255+00:00,debit,1860.81,Payment to Puga y Henríquez S. R.L. de C.V.,Entertainment
+9788bbd2-9f8e-4ed4-8c20-2edc7d4d36b8,2024-12-13 06:10:27.362731+00:00,credit,1120.26,Payment to Laboratorios Rivas-Matías,Healthcare
+03d2ff4a-0427-4c60-8089-277ccc0d1794,2024-12-02 18:45:28.706062+00:00,credit,6998.37,Payment to Grupo García-Cabán,Healthcare
+d7a44bdb-a177-47b0-bb9b-aadb367e29ef,2024-11-13 07:04:15.656278+00:00,credit,684.54,"Payment to Corporacin Arenas, Munguía y Flórez",Entertainment
+09db95b7-2268-43af-94cd-6bcd94fd2a77,2024-11-27 10:43:42.110099+00:00,debit,1131.15,"Payment to Despacho Esparza, Matías y Rico",Subscriptions
+04706132-95ec-4590-ad33-4545a02d69d6,2024-10-19 23:13:33.663007+00:00,debit,721.45,Payment to Proyectos Sisneros y Menchaca,Utilities
+5bb4cdd0-9cba-480b-a6aa-aaaa874f90c9,2025-01-15 12:08:08.781274+00:00,debit,693.03,Payment to Bustos-Ávalos S.A.,Healthcare
+4175e78a-f9a9-4ebd-910b-a2236e7cee0b,2025-04-26 09:52:12.196342+00:00,credit,5477.33,"Payment to Espino, Sanabria y Guajardo",Healthcare
+4e5741d7-17ab-4cdd-aab5-98be47edc459,2025-06-05 19:14:50.767093+00:00,debit,6579.08,"Payment to Industrias Chavarría, Aponte y Caballero",Travel
+c45b1604-97a1-4eed-a144-e665ac26886e,2024-12-07 03:13:23.466934+00:00,debit,879.96,"Payment to Proyectos Ortiz, Gamez y Apodaca",Dining Out
+c15b39ad-6ef5-4497-9434-0bfdeb9ca475,2024-11-18 13:49:19.441136+00:00,credit,1927.38,Payment to Proyectos Durán y Gollum,Education
+90fca02a-cbda-4109-9dbe-ed7cc2a5cb9a,2025-07-15 16:27:44.975613+00:00,debit,2758.06,Payment to Laboratorios Véliz y Covarrubias,Gasoline
+c2f4bbaa-7120-4114-b1c2-71d342869947,2025-01-16 18:18:37.249119+00:00,debit,885.3,Payment to Industrias Cabrera y Olivárez,Housing
+4cccfe90-a656-41e9-9b68-67a9a78b4b39,2025-07-28 13:56:59.166477+00:00,credit,8058.59,Payment to Cervántez-de Jesús,Healthcare
+7a0f46ba-85f4-4920-862d-6b5a73a47d6a,2025-07-13 13:39:35.458439+00:00,credit,726.37,Payment to Soria y Mercado A.C.,Travel
+1be553f0-77f2-49dd-8d67-c93e533f201c,2025-07-23 13:41:09.559813+00:00,debit,6816.46,Payment to Industrias Cortés-Montes,Dining Out
+0e4d4ab7-306d-4033-b0f3-71f2bef83ac3,2024-08-15 12:13:34.542956+00:00,debit,143.67,Payment to Valdivia-Concepción y Asociados,Utilities
+fd285ff7-aef4-4e16-92bc-2be7bdacf3a1,2024-09-17 06:38:50.625863+00:00,credit,4319.17,"Payment to Camacho, Cervantes y Robles",Subscriptions
+5c6495b9-e5f7-47d8-bf26-0bc196cf0e2d,2025-07-08 20:10:26.812921+00:00,credit,2231.22,Payment to Gómez-Ornelas e Hijos,Other
+f2c556ac-e40b-414c-a42a-b5a4eea225e4,2025-01-02 14:13:54.712860+00:00,debit,888.28,Payment to Montero y Menchaca A.C.,Subscriptions
+1afd57de-755a-417f-bb01-42e93fc6b496,2024-11-17 20:38:19.972842+00:00,credit,531.35,Payment to Proyectos Pizarro y Jasso,Subscriptions
+1e46e1e2-66e0-4708-a87a-6b1d77186593,2025-05-05 01:12:16.426937+00:00,credit,436.14,Payment to Industrias Guerra-Orellana,Dining Out
+77655b9d-b28c-44a6-a23e-122eb9659d77,2024-11-20 15:06:47.051557+00:00,debit,3841.12,"Payment to Industrias Puga, Cardenas y Armas",Gasoline
+dd2d54b0-2c9d-4b82-89b2-5a368dca74ce,2025-04-24 20:32:14.705950+00:00,credit,450.33,"Payment to Despacho Jiménez, Cabrera y Pelayo",Entertainment
+e7af89a2-f634-4a05-9a7e-535a5244a461,2025-06-08 05:24:45.983196+00:00,credit,7443.63,Payment to Laboratorios Palomo y Caballero,Education
+60e6de27-298a-4dec-88bb-6211eb276e1c,2025-01-01 04:19:00.147540+00:00,credit,1430.07,Payment to Despacho Verdugo y Escobar,Subscriptions
+9c34529f-e110-41bd-8d37-0847209d27a0,2024-09-29 12:55:52.354046+00:00,credit,4111.54,Payment to Jaimes y Montero S.A.,Entertainment
+9c51eefc-03cd-4d03-9664-7487dea86bff,2025-04-11 07:54:27.115356+00:00,debit,1384.65,Payment to Laboratorios Irizarry-Zarate,Groceries
+454a2ae5-6ccc-4990-bb95-39b3acc71ccc,2024-10-05 00:22:05.841606+00:00,credit,4243.6,"Payment to Corporacin Yáñez, Zúñiga y Nazario",Entertainment
+13177985-151b-4e71-a822-416587d8b628,2025-07-04 00:32:02.985547+00:00,credit,2862.62,Payment to Industrias Zavala-de Jesús,Other
+91db0a35-0f80-43b0-b669-2abc4f99bd2f,2024-10-27 09:05:40.282910+00:00,debit,1465.97,"Payment to Pizarro, Zavala y Ramón",Education
+26a2ead3-6808-4ff2-9b93-56db6b3a5cd4,2025-01-17 19:47:47.393317+00:00,credit,8338.18,Payment to Club Mireles-Perea,Groceries
+f06fc7d7-fabc-4be7-afc3-2f6690a6507f,2024-10-25 23:06:42.161988+00:00,credit,978.62,"Payment to Aponte, Beltrán y Villareal",Other
+abdf3b28-e798-496a-b29e-e4baba4d2dc6,2025-04-27 21:16:39.268701+00:00,credit,812.39,Payment to Castillo A.C.,Healthcare
+12344199-8cde-4d81-9f77-45658a038a68,2024-09-27 23:23:19.766557+00:00,debit,894.44,Payment to Rael y Becerra y Asociados,Education
+f8a25fa3-9413-461d-bcf4-b91047ed9c53,2024-09-17 23:14:57.161428+00:00,credit,853.88,Payment to Quintana y Baca A.C.,Education
+330af904-6f15-434a-a363-6107270970d5,2025-06-01 02:57:40.590798+00:00,credit,196.41,Payment to Industrias Guerrero-Montañez,Travel
+37ac71dd-30bf-44ac-9164-b41356ef039d,2025-04-09 15:36:07.680637+00:00,credit,4492.81,Payment to Corporacin Cisneros y Olivares,Groceries
+fb88681e-7de5-49e5-aa14-878cd697f0b8,2024-08-24 22:59:32.487463+00:00,debit,4048.01,Payment to Cotto y Maya S. R.L. de C.V.,Subscriptions
+32cf2b4f-c633-4236-9a71-a2f63e0f564e,2024-09-05 17:59:29.434169+00:00,debit,2116.48,Payment to Hernandes y Asociados,Healthcare
+cc1d86a8-33f2-4b28-a4c4-598cabb06867,2024-08-15 08:37:00.698111+00:00,credit,1938.92,Payment to Pelayo y Villegas e Hijos,Travel
+2f3ab277-821e-4e02-935d-b84e64fb7c71,2025-02-20 14:47:26.565451+00:00,credit,4550.83,"Payment to Verduzco, Quiroz y Bonilla",Utilities
+28da96d6-72b1-4840-b92f-9610bde96c44,2025-01-16 01:46:17.879138+00:00,credit,673.8,Payment to Esquivel y Zamudio A.C.,Entertainment
+f9e398db-ff20-4e6c-b0ac-927a0c73c19b,2024-10-25 08:14:11.237076+00:00,debit,753.67,"Payment to Despacho Castellanos, Rosas y Caldera",Housing
+6e6470e6-9f3f-4c45-9d20-9881a9a93ff4,2024-08-26 05:35:38.324833+00:00,credit,799.84,Payment to Proyectos Tirado-Olivas,Other
+8e66ad41-6abe-4a4f-b385-f8aa2e8aedb5,2024-12-29 06:46:53.409898+00:00,debit,6855.92,Payment to Contreras y Asociados,Other
+10a8813b-d198-413e-94f4-0cd0d524b20e,2025-03-16 03:45:06.315094+00:00,credit,334.81,Payment to Urbina e Hijos,Subscriptions
+623184a1-c685-4c92-ac7c-9bfa47b2bc92,2025-01-22 22:40:09.471069+00:00,credit,415.55,Payment to Proyectos Velásquez y Guajardo,Education
+97a34079-5ebd-401f-bbc0-7941bc86897c,2025-01-04 00:59:30.407930+00:00,credit,766.76,Payment to Tamez S. R.L. de C.V.,Entertainment
+8a22e948-e34a-4a79-b48e-1dec649e329f,2025-03-03 22:56:26.867656+00:00,debit,8432.8,Payment to Industrias Miramontes-Quiroz,Utilities
+52569bec-ac67-48e1-a3f5-29c0ebff8cb7,2025-08-01 21:08:41.781677+00:00,credit,4329.13,Payment to Despacho Iglesias-Salinas,Education
+87957a5e-6c13-4e15-a894-e585bebf5b30,2024-09-26 14:16:18.389369+00:00,credit,760.85,Payment to Vaca-Castillo,Dining Out
+c9d96bf7-4594-4adf-8739-fe799acd6223,2024-08-29 15:04:52.535879+00:00,credit,1763.05,Payment to Lara-Peres S.C.,Other
+d81379a2-7210-488e-b651-8f2e421fdc75,2025-06-11 04:35:10.110928+00:00,credit,619.79,Payment to Rojo S.A.,Utilities
+12e0a042-22d5-47f6-ba52-6e61733344d5,2024-08-20 07:43:24.988162+00:00,debit,9505.4,Payment to Guillen y Asociados,Education
+54ef0688-85e7-479d-9f5e-c92143d935b9,2025-06-20 04:17:58.280639+00:00,credit,2004.66,"Payment to Industrias Paz, Dueñas y Valdez",Other
+384ed466-b9cc-4f95-9b34-12449cd2488a,2024-08-29 23:57:13.242834+00:00,debit,112.3,Payment to Club Maestas-Pizarro,Dining Out
+fc665e26-7438-4966-a705-9e70bb382945,2024-12-15 01:28:05.776144+00:00,debit,511.76,"Payment to Apodaca, Barraza y Pérez",Housing
+c86bbaa0-0a36-4913-a4ba-078aced257f0,2024-10-24 12:14:08.858033+00:00,debit,5369.17,Payment to Jáquez-Tejada,Gasoline
+2d59a2df-49d4-4a30-891b-13cd35c58e2c,2025-03-13 03:02:38.187621+00:00,debit,774.98,Payment to Mondragón y Peralta A.C.,Travel
+baa2712d-b4cf-4428-906a-e50d9a9e7c6c,2025-02-17 17:39:12.467189+00:00,debit,2061.22,"Payment to Gallardo, Armas y Paz",Groceries
+504ca96d-458e-4706-ae2a-a8deb09eb7fa,2024-10-04 12:15:56.598614+00:00,debit,663.06,"Payment to Despacho Perea, Lovato y Zelaya",Subscriptions
+98dbe68d-2364-4555-a9fd-b300b2bf688b,2024-11-05 22:02:04.572924+00:00,credit,968.62,Payment to Rosales-Alcaraz e Hijos,Housing
+99baabb9-a486-4fb0-bfe3-ad00fb8616cc,2025-04-04 11:51:56.626047+00:00,credit,251.13,Payment to Valladares-Abrego y Asociados,Groceries
+3d6b556a-d345-4d41-8ae2-660ccc814e56,2024-08-26 21:36:57.446640+00:00,credit,535.93,Payment to Romero-Orta S.A.,Housing
+83c60ab4-54f1-4945-aa94-ea32ae556d68,2024-12-24 01:40:18.209007+00:00,debit,118.67,Payment to Marín-Malave,Dining Out
+2ee73c57-344a-4950-adba-329ed71f0180,2025-06-24 14:50:39.217405+00:00,debit,118.84,"Payment to Industrias Ordóñez, Gallegos y Badillo",Education
+e072aa82-258d-42e2-b3c5-1ba1816c9056,2025-03-19 17:05:53.474383+00:00,debit,458.24,Payment to Rodarte A.C.,Utilities
+0bc371a5-9315-48cc-b983-ad3f4817a219,2025-04-06 22:52:04.763333+00:00,credit,957.11,"Payment to Ybarra, Benavídez y Urrutia",Dining Out
+827d8c05-9fee-422a-929a-9a02e9749ccd,2024-12-04 19:57:57.684354+00:00,credit,2902.34,Payment to Feliciano-Solano S.A.,Education
+1629bb86-9df5-4685-8dc6-14ec88337643,2024-11-18 11:48:23.568488+00:00,credit,547.69,Payment to Armas-Terrazas,Other
+d9d21202-bfed-45e3-841d-dba9f4b94bba,2025-05-08 20:42:05.789011+00:00,credit,192.52,Payment to Monroy-Lebrón S. R.L. de C.V.,Utilities
+5f2a10ef-7150-4ec4-80b3-1d64c522c3d3,2025-06-14 04:47:01.071400+00:00,debit,2294.05,Payment to Matos y Asociados,Entertainment
+42104894-8aa0-4f79-8d2e-574dc3db8509,2024-09-19 16:14:12.366368+00:00,credit,563.39,"Payment to Corporacin Ocampo, Armas y Ornelas",Dining Out
+be1c7fa2-a75b-4722-8b89-389c56b32ec4,2024-11-09 01:05:54.942157+00:00,credit,3112.46,Payment to Robledo S.C.,Housing
+b760b196-e942-40dc-8e9f-023ca02a8f52,2025-03-28 07:03:57.579736+00:00,credit,3355.88,Payment to Ocampo S.A.,Utilities
+ebdf8fc7-5258-4038-8700-61ba85fad293,2024-11-02 03:10:41.118399+00:00,debit,453.18,Payment to Lozano y Lucero e Hijos,Utilities
+78ab4dc8-9a00-4c42-9945-a53b61318bc2,2024-10-27 13:57:34.154356+00:00,debit,4210.13,"Payment to Club Henríquez, Gollum y Salinas",Entertainment
+d64df50c-8667-4e51-9732-0de14b1dd688,2025-04-10 02:39:07.083782+00:00,credit,886.84,Payment to Estrada-Laureano S. R.L. de C.V.,Travel
+9d1bd2c8-ca19-45a3-b5f0-5fb10610ed67,2025-03-30 10:57:47.648676+00:00,credit,4277.72,Payment to Proyectos Sánchez y Altamirano,Dining Out
+a3cf60e0-734c-47a6-ba50-35143908393c,2025-07-24 03:40:28.757095+00:00,credit,1443.37,Payment to Industrias de la O y Amador,Education
+0bf0c749-bdb6-456d-b0ad-09eac7f7d639,2024-11-09 10:31:09.947518+00:00,debit,220.96,Payment to Noriega-Bustamante S.A.,Education
+65830b24-b025-4e49-8fb9-cf1b22d6d688,2024-10-03 02:28:23.697914+00:00,credit,447.78,"Payment to Corporacin Aranda, Bonilla y Bahena",Entertainment
+000dfd78-dce0-46aa-8f61-52e10e2687ce,2025-07-11 02:57:26.908931+00:00,debit,344.38,Payment to Proyectos Durán y Acuña,Travel
+0ae76b1e-cbea-4c90-b575-ccd5ca4a3aa4,2024-09-03 05:45:40.992535+00:00,credit,3669.43,Payment to Bétancourt S.A.,Education
+abd7db9f-e9f7-400f-be3b-4bdde7d6ad0d,2025-07-18 00:00:06.471382+00:00,debit,637.02,"Payment to Despacho Hernández, Gamboa y Zayas",Groceries
+c9b83236-0b9b-40ba-bbf7-925613e62715,2025-03-27 06:33:58.633350+00:00,credit,3346.9,"Payment to Naranjo, Porras y Altamirano",Housing
+cdab2c7d-26a6-420e-abbc-8f3a1fc599d7,2025-07-14 12:20:58.357200+00:00,credit,4167.34,Payment to Serna y Asociados,Entertainment
+747caa4c-0c37-4ed4-a9d3-eaf746b34b3d,2024-10-30 15:04:18.735727+00:00,debit,2328.9,Payment to Puente S. R.L. de C.V.,Healthcare
+52fbd80f-2417-4752-85ca-251ca4c1c9aa,2024-11-07 05:36:39.185696+00:00,credit,1968.84,Payment to Hurtado-Baca,Travel
+94a2bcec-d6eb-4469-ab79-4f88ab48affa,2025-01-12 11:03:43.620714+00:00,credit,2785.99,"Payment to Laboratorios Rojas, Casillas y Chavarría",Groceries
+4b7c6e5f-7ec3-47f8-8275-dc3b8436bc63,2024-12-10 22:44:45.398692+00:00,debit,186.92,"Payment to Torres, Ballesteros y Bonilla",Healthcare
+75cd4c58-1658-4d95-8ed9-7907d8e4778d,2024-09-09 20:46:28.734087+00:00,debit,349.4,Payment to Corporacin Ibarra-Zapata,Education
+d1e1a647-1ac1-4f85-ab51-1b6c7b62df84,2024-12-12 09:38:11.205221+00:00,debit,389.01,Payment to Cavazos-Rosales S.A.,Education
+aa9ad15e-8f6f-43c3-82d3-982c42b0366e,2025-03-16 15:40:16.852878+00:00,credit,1207.14,Payment to Club Fernández-Pichardo,Other
+f7f3f307-ada0-43db-bda3-8f227a4245eb,2025-05-25 16:27:17.472612+00:00,credit,4546.61,Payment to Escamilla-Maestas,Groceries
+f0d422c0-f0c1-454b-b72e-62061db08463,2025-02-18 12:58:59.365786+00:00,credit,5418.93,"Payment to Proyectos Ledesma, Balderas y Chavarría",Travel
+85b088f9-5c3c-47f9-890f-4eb061175100,2025-01-15 17:12:29.077533+00:00,debit,8423.7,Payment to Grupo Gallardo-Suárez,Other
+07391aa0-cb84-4183-89e2-c4a58cec0104,2024-09-15 14:34:29.121597+00:00,debit,889.74,"Payment to Corporacin Frías, Loya y Gallegos",Healthcare
+728aaf47-70f9-4ceb-9aa0-92a417d2e3cb,2024-08-17 02:30:14.636240+00:00,debit,270.78,Payment to Despacho Rolón-Bustos,Utilities
+21994ed9-814b-4afe-ae34-86f7bade4bc5,2025-02-12 21:30:44.468731+00:00,credit,249.37,Payment to Razo y Cortez A.C.,Other
+ff03c86d-633d-4d05-9a12-ec8120aad057,2024-08-29 22:29:33.346326+00:00,debit,863.44,Payment to Peralta-Soto S.A. de C.V.,Travel
+86657572-b23e-4980-ad43-8bca05a3dae2,2024-08-25 07:28:23.016104+00:00,debit,496.37,Payment to Alcántar-Escobedo S. R.L. de C.V.,Subscriptions
+58f115c7-7655-499b-86e7-601c65cacc90,2024-11-04 21:43:11.453376+00:00,debit,5982.46,Payment to Laboratorios Escalante y Anguiano,Healthcare
+46ba8e75-b20a-4c33-94d8-dd2a417acdd1,2025-08-02 00:43:22.445160+00:00,debit,3053.1,"Payment to Club Juárez, Pérez y Murillo",Utilities
+6653d658-6a4b-4669-bd56-8e967fbcafd8,2025-04-11 04:42:11.457116+00:00,debit,720.42,Payment to Industrias Godínez-Feliciano,Dining Out
+3ed894bf-12c2-4ab1-b05a-4ac660549bcb,2024-10-16 10:57:29.824656+00:00,debit,3216.04,Payment to Romo-Dueñas,Subscriptions
+dee56e58-6c74-4711-be43-7e93dabeee9e,2024-10-18 00:55:07.102502+00:00,debit,745.29,Payment to Corporacin Villagómez-Solís,Gasoline
+73675422-408e-40d4-a6dd-c6b5eb958168,2024-09-08 01:38:16.397364+00:00,credit,3638.89,Payment to Corporacin Valladares-Posada,Education
+fa784d28-70df-4324-b608-18d198857cda,2025-07-09 06:44:46.667299+00:00,credit,4090.3,Payment to Hernández-Griego,Dining Out
+1bfdd89e-3c0a-40c8-a720-e2863ddb0a7e,2025-04-15 08:55:07.635218+00:00,credit,4409.38,Payment to Cantú-Zamudio S. R.L. de C.V.,Groceries
+cfbda505-5677-46d9-9449-763a1c0928d7,2025-06-08 18:19:30.367221+00:00,credit,395.61,Payment to Laboratorios Tirado-Guardado,Groceries
+02324672-41fb-4181-ad19-67e846dd6033,2025-03-01 08:43:12.244552+00:00,credit,759.69,Payment to Valverde-Alcaraz A.C.,Utilities
+3f0cd7bf-3c74-49e9-9be7-1956b1ad5129,2025-05-03 11:33:02.950084+00:00,debit,371.63,Payment to Casárez A.C.,Education
+b483ba1f-4f7c-4439-bf52-ee1b5312acd7,2025-06-26 15:13:45.385475+00:00,debit,547.44,Payment to Chapa-Toro,Housing
+00221672-3197-4843-b2c9-736effaab30a,2024-10-06 02:04:13.230925+00:00,debit,1438.95,Payment to Téllez S.A. de C.V.,Subscriptions
+b17bffda-f820-4b06-94f5-e973dca87624,2025-05-15 14:39:02.664607+00:00,debit,300.75,"Payment to Suárez, Jurado y Guardado",Subscriptions
+5032ea0f-577c-43a9-b4c6-3484c2baeeba,2024-10-12 04:10:26.161471+00:00,credit,292.68,Payment to Aguayo S. R.L. de C.V.,Groceries
+0e218f94-1098-43f1-aebf-d3200216a5ce,2025-03-16 19:45:07.123839+00:00,credit,766.62,Payment to Hurtado S.C.,Gasoline
+4d5f1e38-880b-4799-ae0f-2d90e2b47e82,2025-05-19 17:55:49.304471+00:00,credit,914.65,Payment to Industrias Gálvez-Hidalgo,Groceries
+23e3c66b-0f86-4bd7-995b-4e104da6be02,2025-03-28 10:38:36.073714+00:00,credit,505.42,"Payment to Grupo Covarrubias, de la Torre y Gurule",Groceries
+fda830d2-767d-463a-888a-7fbde31e2882,2024-08-25 20:04:20.470410+00:00,credit,4365.57,Payment to Laboratorios Casares y Aguilera,Entertainment
+4806da75-185e-46a2-b405-1d6aeeb3e4b5,2024-12-29 05:31:21.535151+00:00,debit,237.83,Payment to Leyva y Alvarez S. R.L. de C.V.,Utilities
+fec8068e-7296-45c6-8215-977310560a02,2025-06-22 21:58:05.516672+00:00,debit,4525.77,Payment to Laboratorios Rolón-Saavedra,Dining Out
+16a528e7-41e1-4a98-a225-e60b9b4abba2,2025-07-26 17:54:52.184399+00:00,debit,4610.44,Payment to Enríquez-Véliz e Hijos,Gasoline
+5ab2dfd5-f1e7-4a27-ba83-d300836d920f,2025-01-04 04:41:31.971245+00:00,credit,2688.76,Payment to Grupo Colón y Correa,Groceries
+4ae2f20f-9458-4a7b-8831-c5ed74991559,2024-09-19 22:24:21.933863+00:00,debit,102.86,Payment to Cisneros-del Río,Subscriptions
+8b4dd6d8-83de-44c6-9851-a596b73a523c,2024-12-10 05:33:51.054699+00:00,debit,3298.34,Payment to Canales-Carbajal S.A.,Gasoline
+e566568b-038d-4c5f-9f36-85cd010c21d1,2024-10-27 22:53:22.435953+00:00,debit,2510.94,Payment to Villaseñor-Ozuna,Utilities
+132d4f0b-a606-44df-bde5-68f2920ffad6,2025-03-10 10:54:00.766985+00:00,debit,166.09,Payment to Esquibel S. R.L. de C.V.,Healthcare
+137aec8f-a99f-4952-860f-7d7aa4707789,2025-04-01 06:35:23.358868+00:00,credit,2974.36,"Payment to Laboratorios Munguía, Padrón y Nieves",Travel
+2b294d09-14b0-4095-b50d-cab14dfab113,2024-10-30 02:51:21.997163+00:00,credit,984.52,Payment to Luevano S.A. de C.V.,Education
+fc636799-7a88-4076-a8cb-c958b46957b7,2025-03-09 10:02:17.123253+00:00,credit,427.02,Payment to Grupo Estévez y Torres,Utilities
+1b3aba35-5861-4bed-8a2d-804d074bb9b3,2024-09-10 17:20:59.522147+00:00,debit,3887.21,Payment to Proyectos Montes y Corrales,Education
+f75f55d4-df51-4ef1-a8dd-b5d8427e720e,2025-07-08 12:32:00.331189+00:00,credit,995.95,"Payment to Cervantes, Laboy y Valenzuela",Subscriptions
+384f01d0-cb73-43e0-8028-645d20e60f3e,2025-06-26 05:12:44.783124+00:00,credit,3846.55,Payment to Serrato S.C.,Groceries
+a546548e-94bc-49a0-9b33-71d1c394ce49,2024-08-28 04:47:29.207011+00:00,debit,239.49,Payment to Valles y Ortega S.A.,Utilities
+8f145dd7-d538-48ef-b631-60160f86b5c9,2024-12-07 00:51:45.790577+00:00,credit,2327.12,Payment to Ureña-Ornelas S.A. de C.V.,Subscriptions
+3961876d-15eb-4dfa-b0db-375f742beeaa,2024-09-30 16:04:26.144065+00:00,debit,913.38,Payment to Haro-Fonseca,Gasoline
+e088a02f-4316-42f1-b0aa-d82ec8cecfbf,2024-12-08 22:42:21.764350+00:00,debit,158.71,"Payment to Esquivel, Franco y Mascareñas",Healthcare
+450c0ef9-6b2e-4953-b5a4-8b7990cb723d,2024-08-22 21:59:10.360388+00:00,credit,4930.15,Payment to Corporacin Vélez-Hernádez,Education
+f89aaef6-ce0e-403d-9e89-a67068fcb1bc,2024-08-24 22:52:06.300552+00:00,debit,7562.72,Payment to Laboratorios Fernández y Delgado,Entertainment
+9e709a64-8a6f-47ac-bc54-fd5dd08be405,2024-08-13 22:14:48.148464+00:00,credit,157.15,Payment to Corrales-Briseño S.A.,Other
+1f594e84-2845-4e74-b0c6-2c4f1f9dfe2d,2024-11-04 23:01:55.682818+00:00,credit,2963.0,Payment to Laboratorios Marrero-Juárez,Education
+38a86bd3-1354-44ca-becc-d6883e8d5f5b,2024-12-28 19:15:32.157167+00:00,credit,9259.48,"Payment to Despacho Serna, Rodríquez y Apodaca",Housing
+b60e1d27-e1e7-498c-84bb-975ffd403b5f,2025-04-01 01:27:21.255109+00:00,credit,2730.48,Payment to Serna-de Anda S.A. de C.V.,Groceries
+ecce79a2-6324-429b-bd4c-233674512949,2025-03-24 04:16:06.558349+00:00,credit,164.09,Payment to Gollum-Alva A.C.,Travel
+1d8470f1-0734-4023-92df-9b5319b2ef95,2025-05-22 10:38:44.176891+00:00,debit,2145.52,Payment to Cisneros-Posada,Dining Out
+b61c7546-6187-4f34-bfec-3023a4c3f740,2024-08-27 20:59:05.557306+00:00,debit,238.13,Payment to Armendáriz-Sarabia,Dining Out
+4123c67f-66c9-45b0-84c7-41d74bddfdef,2024-10-31 06:36:54.797699+00:00,debit,8804.22,Payment to Barraza-Aponte,Utilities
+5ce806eb-3303-442c-a818-e83dea39032f,2025-01-11 17:58:23.295153+00:00,credit,566.67,"Payment to Cepeda, Armendáriz y Reséndez",Travel
+2c742ce9-0186-47d2-947f-a056c158fe9f,2024-10-09 08:29:43.248841+00:00,credit,8762.67,Payment to Escobar-Villalobos,Dining Out
+dd4a7a9c-2d3a-4d04-85b4-60eac1c703c8,2024-12-09 19:48:52.807465+00:00,debit,4138.26,Payment to Chacón y Henríquez e Hijos,Entertainment
+d05e2876-de82-4c47-b005-f3b4a558ecb2,2025-04-13 14:07:22.765533+00:00,debit,1987.03,Payment to Pulido-Matos,Subscriptions
+15ad616b-d0cf-4035-a49f-5221ba6e3c63,2024-11-19 03:21:26.940482+00:00,credit,3745.02,Payment to Despacho Magaña-Solano,Groceries
+881f801c-f7c2-4b6a-b3fb-f2fea5f63f7d,2025-08-02 19:35:11.846550+00:00,debit,6699.19,"Payment to Ruiz, Escobedo y Cortés",Travel
+60da0df6-1e60-4f5c-9ab1-caa1ea432a67,2025-08-04 00:39:03.997125+00:00,credit,1889.47,Payment to Reséndez S.A. de C.V.,Education
+ae481ce5-77ff-4455-9e41-20719d18d7b3,2025-06-06 20:50:48.169225+00:00,debit,562.04,Payment to Raya e Hijos,Housing
+01c81ecb-0b1f-4614-bb08-4316aaca5b84,2024-11-11 02:40:02.477080+00:00,debit,1156.73,Payment to Despacho Barreto y Loya,Groceries
+7719ccb0-cd3f-4eac-94dd-1ada8184f659,2025-05-05 12:31:27.358835+00:00,debit,3880.09,Payment to Proyectos Segovia-Gonzales,Healthcare
+575fcd31-bbc5-4918-a5b0-62a073eaf5e0,2024-08-19 14:48:43.010139+00:00,debit,586.34,Payment to Quiñónez-Farías,Travel
+61509ee6-9d2e-46d8-b0bd-6f4f6020d250,2025-06-16 13:40:37.145476+00:00,credit,75.12,Payment to Canales-Carrero,Gasoline
+02f26c17-883b-4804-8c7a-42fb83c252ad,2024-12-07 15:23:15.488088+00:00,debit,880.17,Payment to Laboratorios Rincón-Bustos,Groceries
+6d3f1822-d19e-43d6-80b4-a982c49428ca,2025-06-16 22:34:41.810004+00:00,credit,896.66,Payment to Industrias Villanueva-Matos,Groceries
+b444a807-37d6-4caf-8db1-8dcb3f26408f,2025-07-12 15:26:07.086959+00:00,credit,5808.16,Payment to Laboratorios Casares-Sisneros,Gasoline
+6b6088a1-1b72-4821-9347-682ba24c8a23,2024-12-15 06:58:41.403716+00:00,credit,4964.25,Payment to Laboratorios Roldán-Espinal,Other
+ba7a91a7-4453-47f8-8203-f7a3b06d20b7,2024-10-04 11:55:37.427068+00:00,credit,374.03,Payment to Industrias Ulloa y García,Entertainment
+bd47651a-9453-4f64-a1c0-fcba634091a3,2025-05-09 21:44:13.283166+00:00,debit,4358.23,"Payment to Club Santana, Gaona y Gallegos",Utilities
+ba64082b-4f08-4f74-98ff-0346acba6ada,2025-02-19 09:01:21.752067+00:00,credit,426.26,"Payment to Prieto, Hurtado y Rivero",Healthcare
+fbbba4b6-02a4-4afb-93fb-c48484a5476a,2025-07-31 04:39:24.697126+00:00,credit,215.51,Payment to Aguirre S.A. de C.V.,Other
+6191f9bb-15a1-498c-970b-88c0c18629b3,2025-04-16 04:33:15.359293+00:00,debit,867.91,Payment to Valdés S. R.L. de C.V.,Healthcare

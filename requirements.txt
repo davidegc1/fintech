@@ -1,0 +1,7 @@
+python-dotenv
+faker
+uuid
+pandas
+dash
+dash_design_kit
+dash-mantine-components==0.12.1
